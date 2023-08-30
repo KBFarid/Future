@@ -1,0 +1,65 @@
+{
+    "m_Version": 13,
+    "DisplayName": "Civil Pants",
+    "Icon": "Deliver",
+    "Color": "FFC000",
+	"InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+	    {
+      "ClassName": "fs_tolstovka_greybeige",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	    {
+      "ClassName": "fs_oldmilitarypants_standart",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "fs_clearskytype2_pants_blue",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fs_clearskytype2_pants_green"
+      ]
+    },
+	{
+      "ClassName": "fs_st_pants_bandit",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fs_st_pants_clearsky",
+        "fs_st_pants_dolg",
+        "fs_st_pants_netral",
+        "fs_st_pants_netral2",
+        "fs_st_pants_pixel",
+        "fs_st_pants_sea",
+        "fs_st_pants_svoboda",
+        "fs_st_pants_tan"
+      ]
+    }
+  ]
+}

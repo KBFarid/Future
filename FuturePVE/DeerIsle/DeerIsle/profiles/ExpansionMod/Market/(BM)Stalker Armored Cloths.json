@@ -1,0 +1,269 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FX01 Stalker Armored Cloths",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "FS_FX01_up_DOLG",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FS_FX01_up_FIDOv",
+        "FS_FX01_up_ClearSky",
+        "FS_FX01_up_FX01_Neitral",
+        "FS_FX01_up_FX01_Naim",
+        "FS_FX01_up_FX01_Svoboda",
+        "FS_FX01_up_FX01_Monolit"
+      ]
+    },
+    {
+      "ClassName": "FS_SevaModule_Odinochka",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FS_SevaModule_Monolit",
+        "FS_SevaModule_Naemniki",
+        "FS_SevaModule_DOLG",
+        "FS_SevaModule_Svoboda",
+        "FS_SevaModule_SpecFID",
+        "FS_SevaModule_MEDIC"
+      ]
+    },
+    {
+      "ClassName": "fs_jager",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fs_jager_pants",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FS_FX01_Down_DOLG",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FS_FX01_Down_FIDOv",
+        "FS_FX01_Down_ClearSky",
+        "FS_FX01_Down_FX01_Neitral",
+        "FS_FX01_Down_FX01_Naim",
+        "FS_FX01_Down_FX01_Svoboda",
+        "FS_FX01_Down_FX01_Monolit"
+      ]
+    },
+    {
+      "ClassName": "FS_ExoStorm_Jacket_DOLG",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FS_ExoStorm_Jacket_bandit",
+        "FS_ExoStorm_Jacket_Svoboda",
+        "FS_ExoStorm_Jacket_Monolit",
+        "FS_ExoStorm_Jacket_specnaz",
+        "FS_ExoStorm_Jacket_tank",
+        "FS_ExoStorm_Jacket_ClearSKY"
+      ]
+    },
+    {
+      "ClassName": "FS_ExoStorm_Pants_DOLG",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FS_ExoStorm_Pants_bandit",
+        "FS_ExoStorm_Pants_Svoboda",
+        "FS_ExoStorm_Pants_Monolit",
+        "FS_ExoStorm_Pants_specnaz",
+        "FS_ExoStorm_Pants_tank",
+        "FS_ExoStorm_Pants_ClearSKY"
+      ]
+    },
+    {
+      "ClassName": "FS_ExoTypeJacket_Standart",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FS_ExoTypePants_Standart",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FS_RangerJacket_Green",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FS_RangerPants_green",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FS_EXO_tank",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FS_EXO_Specnaz",
+        "FS_EXO_Monolit",
+        "FS_EXO_Free",
+        "FS_EXO_Dolg",
+        "FS_EXO_Bandit"
+      ]
+    },
+    {
+      "ClassName": "FS_EXO_leg_Bandit",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FS_EXO_leg_Dolg",
+        "FS_EXO_leg_Free",
+        "FS_EXO_leg_Monolit",
+        "FS_EXO_leg_Specnaz",
+        "FS_EXO_leg_tank"
+      ]
+    },
+    {
+      "ClassName": "FS_ExoStorm_Helm_DOLG",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FS_ExoStorm_Helm_bandit",
+        "FS_ExoStorm_Helm_Svoboda",
+        "FS_ExoStorm_Helm_Monolit",
+        "FS_ExoStorm_Helm_specnaz",
+        "FS_ExoStorm_Helm_tank",
+        "FS_ExoStorm_Helm_ClearSKY",
+        "FS_ExoStorm_HelmNG_DOLG",
+        "FS_ExoStorm_HelmNG_bandit",
+        "FS_ExoStorm_HelmNG_Svoboda",
+        "FS_ExoStorm_HelmNG_Monolit",
+        "FS_ExoStorm_HelmNG_specnaz",
+        "FS_ExoStorm_HelmNG_tank",
+        "FS_ExoStorm_HelmNG_ClearSKY"
+      ]
+    },
+    {
+      "ClassName": "FS_Protez_Ruka",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FS_Protez_Boots",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FS_Protez_Noga",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FS_Protez_NogaDuble",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

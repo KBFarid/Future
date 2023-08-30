@@ -1,0 +1,35 @@
+{
+  "m_Version": 11,
+  "DisplayName": "#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 0,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Nails",
+  "Currencies": [
+    "expansionbanknoteeuro"
+  ],
+  "Categories": [
+    "Containers",
+    "Electronics",
+    "Flags",
+    "Tools",
+    "Batteries",
+    "Kits",
+    "Lights",
+    "Locks",
+    "Knifes",
+    "BarrelRenegade",
+    "(SkyTrader)Tools",
+    "ProtectorCaseRenegade",
+    "Tents",
+    "RagDeco",
+    "RagStorage",
+    "RagTools",
+    "SleepingBag",
+    "Vanila_Supplies",
+    "Vanila_Navigation",
+    "Vanila_Gardening"
+  ],
+  "Items": {}
+}

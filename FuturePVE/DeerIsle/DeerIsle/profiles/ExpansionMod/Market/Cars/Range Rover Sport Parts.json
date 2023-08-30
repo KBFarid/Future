@@ -1,0 +1,153 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Range Rover Sport Parts",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "RR_Sport_12_koleso",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RR_Sport_12_dver_1_1",
+            "MaxPriceThreshold": 15000.0,
+            "MinPriceThreshold": 15000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RR_Sport_12_dver_2_1",
+            "MaxPriceThreshold": 15000.0,
+            "MinPriceThreshold": 15000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RR_Sport_12_dver_1_2",
+            "MaxPriceThreshold": 15000.0,
+            "MinPriceThreshold": 15000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RR_Sport_12_dver_2_2",
+            "MaxPriceThreshold": 15000.0,
+            "MinPriceThreshold": 15000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RR_Sport_12_kapot",
+            "MaxPriceThreshold": 15000.0,
+            "MinPriceThreshold": 15000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RR_Sport_12_bagazhnik",
+            "MaxPriceThreshold": 15000.0,
+            "MinPriceThreshold": 15000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RR_Sport_12_dver_1_1_Black",
+            "MaxPriceThreshold": 15000.0,
+            "MinPriceThreshold": 15000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RR_Sport_12_dver_2_1_Black",
+            "MaxPriceThreshold": 15000.0,
+            "MinPriceThreshold": 15000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RR_Sport_12_dver_1_2_Black",
+            "MaxPriceThreshold": 15000.0,
+            "MinPriceThreshold": 15000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RR_Sport_12_dver_2_2_Black",
+            "MaxPriceThreshold": 15000.0,
+            "MinPriceThreshold": 15000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RR_Sport_12_kapot_Black",
+            "MaxPriceThreshold": 15000.0,
+            "MinPriceThreshold": 15000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RR_Sport_12_bagazhnik_Black",
+            "MaxPriceThreshold": 15000.0,
+            "MinPriceThreshold": 15000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

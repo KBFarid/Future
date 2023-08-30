@@ -1,0 +1,54 @@
+{
+    "m_Version": 12,
+    "DisplayName": "UAZ 469 Offroad",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "UAZ469_offroad",
+            "MaxPriceThreshold": 165000.0,
+            "MinPriceThreshold": 165000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "UAZ469_offroad_Blue",
+            "MaxPriceThreshold": 165000.0,
+            "MinPriceThreshold": 165000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "UAZ469_offroad_Yellow",
+            "MaxPriceThreshold": 165000.0,
+            "MinPriceThreshold": 165000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "UAZ469_offroad_Red",
+            "MaxPriceThreshold": 165000.0,
+            "MinPriceThreshold": 165000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

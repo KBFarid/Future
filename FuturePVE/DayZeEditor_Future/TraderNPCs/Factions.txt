@@ -1,0 +1,11 @@
+﻿West
+East
+Raiders
+Mercenaries
+Civilian
+Passive
+Guards
+Shamans
+InvincibleObservers
+Observers
+InvincibleGuards

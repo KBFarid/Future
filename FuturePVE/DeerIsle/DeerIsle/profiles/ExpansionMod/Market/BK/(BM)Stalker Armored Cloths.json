@@ -1,0 +1,46 @@
+{
+    "m_Version": 12,
+    "DisplayName": "FX01 Stalker Armored Cloths",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "FS_FX01_up_DOLG",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"FS_FX01_up_FIDOv",
+			"FS_FX01_up_ClearSky",
+			"FS_FX01_up_FX01_Neitral",
+			"FS_FX01_up_FX01_Naim",
+			"FS_FX01_up_FX01_Svoboda",
+			"FS_FX01_up_FX01_Monolit"
+			]
+        },
+        {
+            "ClassName": "FS_FX01_Down_DOLG",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"FS_FX01_Down_FIDOv",
+			"FS_FX01_Down_ClearSky",
+			"FS_FX01_Down_FX01_Neitral",
+			"FS_FX01_Down_FX01_Naim",
+			"FS_FX01_Down_FX01_Svoboda",
+			"FS_FX01_Down_FX01_Monolit"
+			]
+        }
+    ]
+}

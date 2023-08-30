@@ -1,0 +1,43 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Madzda RX7",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "CrSk_Mazda_RX7_FD3S",
+            "MaxPriceThreshold": 590000.0,
+            "MinPriceThreshold": 590000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CrSk_Mazda_RX7_FD3S_Black",
+            "MaxPriceThreshold": 590000.0,
+            "MinPriceThreshold": 590000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CrSk_Mazda_RX7_FD3S_Red",
+            "MaxPriceThreshold": 590000.0,
+            "MinPriceThreshold": 590000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

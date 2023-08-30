@@ -1,0 +1,25 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Ear covers",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "Paragon_EarCovers_Black",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_EarCovers_Blue",
+        "Paragon_EarCovers_Desert",
+        "Paragon_EarCovers_Green"
+      ]
+    }
+  ]
+}

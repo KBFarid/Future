@@ -1,0 +1,441 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-8-28_19-5-58
+====================================================================================
+19:5:58 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+19:5:58 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+19:5:58 | [PermissionManager] Perm (FreeCamera) has been registered!
+19:5:58 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+19:5:58 | [PermissionManager] Perm (MenuItemManager) has been registered!
+19:5:58 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+19:5:58 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+19:5:58 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+19:5:58 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+19:5:58 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+19:5:58 | [PermissionManager] Perm (MenuServerManager) has been registered!
+19:5:58 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+19:5:58 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+19:5:58 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+19:5:58 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+19:5:58 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+19:5:58 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+19:5:58 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+19:5:58 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+19:5:58 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+19:5:58 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+19:5:58 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+19:5:58 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+19:5:58 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+19:5:58 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+19:5:58 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+19:5:58 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+19:5:58 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+19:5:58 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+19:5:58 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+19:5:58 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+19:5:58 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+19:5:58 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+19:5:58 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+19:5:58 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+19:5:58 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+19:5:58 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+19:5:58 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+19:5:58 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+19:5:58 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+19:5:58 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+19:5:58 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+19:5:58 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+19:5:58 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+19:5:58 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+19:5:58 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+19:5:58 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+19:5:58 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+19:5:58 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+19:5:58 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+19:5:58 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+19:5:58 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+19:5:58 | [PermissionManager] Perm (MenuBansManager) has been registered!
+19:5:58 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+19:5:58 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+19:5:58 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+19:5:58 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+19:5:58 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+19:5:58 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+19:5:58 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+19:5:58 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+19:5:58 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+19:5:58 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+19:5:58 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+19:5:58 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+19:5:58 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+19:5:58 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+19:5:58 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+19:5:58 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+19:5:58 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+19:5:58 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+19:5:58 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+19:5:58 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+19:5:58 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+19:5:58 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+19:5:58 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+19:5:58 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+19:5:58 | [PermissionManager] Adding Super Admin (76561198811763280)
+19:5:58 | [PermissionManager] Loaded UserGroups.json
+19:5:58 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+19:5:58 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+19:5:58 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+19:5:58 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+19:5:58 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+19:5:58 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+19:5:58 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+19:5:58 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+19:5:58 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+19:5:58 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+19:5:58 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+19:5:58 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+19:5:58 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+19:5:58 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+19:5:58 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+19:5:58 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+19:5:58 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+19:5:58 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+19:5:58 | Building Sets Loaded: 9
+19:6:1 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+19:6:1 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+19:7:6 | Player "tsifthanos" (steamId=76561198123155229) connected to server!
+19:7:22 | "tsifthanos" (steamid=76561198123155229) toggled godmode
+19:7:39 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BoatTrader.vpp
+19:7:39 | [BuildingSetManager] Saving & Reloading Building Set:BoatTrader
+19:7:39 | "tsifthanos" (steamid=76561198123155229) updated building set (BoatTrader)
+19:7:39 | [BuildingSetManager] Deleted file: BoatTrader
+19:7:39 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BoatTrader.vpp
+19:7:44 | "tsifthanos" (steamid=76561198123155229) deleted object "RFWC_Whaler" (pos=<11278.012695, 0.214022, 11661.687500>)
+19:8:22 | "tsifthanos" (steamid=76561198123155229) spawned preset: (Cash)
+19:8:35 | "tsifthanos" (steamid=76561198123155229) spawned preset: (Cash)
+19:8:58 | "tsifthanos" (steamid=76561198123155229) spawned preset: (Cash)
+19:8:59 | "tsifthanos" (steamid=76561198123155229) spawned preset: (Cash)
+19:9:0 | "tsifthanos" (steamid=76561198123155229) spawned preset: (Cash)
+19:9:1 | "tsifthanos" (steamid=76561198123155229) spawned preset: (Cash)
+19:9:1 | "tsifthanos" (steamid=76561198123155229) spawned preset: (Cash)
+19:9:2 | "tsifthanos" (steamid=76561198123155229) spawned preset: (Cash)
+19:9:2 | "tsifthanos" (steamid=76561198123155229) spawned preset: (Cash)
+19:9:48 | "tsifthanos" (steamid=76561198123155229) Spawned Item: (ExpansionBriefcase)
+19:9:53 | "tsifthanos" (steamid=76561198123155229) deleted object "ExpansionBriefcase" (pos=<11277.670898, 2.302320, 11666.861328>)
+19:10:14 | "tsifthanos" (steamid=76561198123155229) spawned preset: (Cash)
+19:10:24 | "tsifthanos" (steamid=76561198123155229) edited preset: (Cash)
+19:10:25 | "tsifthanos" (steamid=76561198123155229) spawned preset: (Cash)
+19:11:15 | "tsifthanos" (steamid=76561198123155229) deleted object "Renegade_BlackAdminProtectorCase" (pos=<11276.569336, 2.086045, 11666.221680>)
+19:13:28 | "tsifthanos" (steamid=76561198123155229) toggled freecam
+19:13:37 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<365.611633, 78.344398, 815.890442>)
+19:13:43 | "tsifthanos" (steamid=76561198123155229) toggled freecam
+19:13:45 | "tsifthanos" (steamid=76561198123155229) toggled freecam
+19:13:49 | "tsifthanos" (steamid=76561198123155229) toggled freecam
+19:13:56 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<-0.868822, 1.719509, -0.068294>)
+19:13:56 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<-0.862009, 1.732195, -0.066149>)
+19:14:8 | "tsifthanos" (steamid=76561198123155229) toggled freecam
+19:14:14 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<-3.434380, 9.526155, 1.367993>)
+19:14:35 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<263.245026, 15.282112, 446.363434>)
+19:14:43 | "tsifthanos" (steamid=76561198123155229) deleted objects using ESP
+19:14:47 | "tsifthanos" (steamid=76561198123155229) toggled freecam
+19:15:13 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<1.246230, 0.666168, 0.949064>)
+19:15:14 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<1.378215, 1.214631, 1.184616>)
+19:15:14 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<1.549351, 2.375106, 1.421115>)
+19:15:14 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<1.646369, 2.094290, 1.522650>)
+19:15:14 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<1.757743, 2.860159, 1.731160>)
+19:15:14 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<1.770275, 1.686729, 1.800604>)
+19:15:15 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<1.858765, 2.519454, 2.032847>)
+19:15:15 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<1.948544, 5.293530, 2.284384>)
+19:15:15 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.082255, 6.754985, 2.533148>)
+19:15:15 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.243100, 6.640746, 2.760389>)
+19:15:15 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.241773, 6.578987, 2.761102>)
+19:15:15 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.240433, 6.517222, 2.761812>)
+19:15:15 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.238321, 6.418057, 2.763094>)
+19:15:15 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.236580, 6.335639, 2.764248>)
+19:15:15 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.235028, 6.262370, 2.765257>)
+19:15:15 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.233470, 6.189095, 2.766250>)
+19:15:15 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.232300, 6.123317, 2.767174>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.230760, 6.028378, 2.768518>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.229223, 5.933434, 2.769830>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.227391, 5.808478, 2.771466>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.226484, 5.729890, 2.772403>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.225687, 5.661125, 2.773216>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.224555, 5.562889, 2.774352>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.223858, 5.493030, 2.775119>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.223211, 5.411794, 2.775961>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.222407, 5.310251, 2.776992>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.221841, 5.239169, 2.777709>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.235349, 5.327271, 2.798262>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.277462, 5.747897, 2.858846>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.310215, 6.075049, 2.905965>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.342968, 6.402203, 2.953077>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.375721, 6.729356, 3.000187>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.377494, 6.655343, 3.003070>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.377601, 6.571401, 3.003509>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.377707, 6.487457, 3.003947>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.377826, 6.392922, 3.004434>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.378328, 6.317115, 3.004730>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.379114, 6.197991, 3.005192>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.379613, 6.122184, 3.005486>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.380184, 6.035547, 3.005821>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.381823, 5.935054, 3.005974>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.383312, 5.845715, 3.006098>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.384618, 5.767538, 3.006205>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.386292, 5.667023, 3.006339>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.388590, 5.575091, 3.006260>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.390973, 5.483024, 3.006150>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.393345, 5.390952, 3.006027>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.395713, 5.298873, 3.005889>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.398221, 5.216511, 3.005643>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.401672, 5.109865, 3.005236>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.404346, 5.026911, 3.004894>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.407397, 4.932096, 3.004475>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.409799, 4.860314, 3.004116>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.414266, 4.738400, 3.003356>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.417398, 4.653045, 3.002778>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.420507, 4.567684, 3.002167>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.423621, 4.482310, 3.001519>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.450267, 4.848837, 3.042278>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.474782, 5.192104, 3.079974>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.499294, 5.535357, 3.117613>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.530566, 5.766736, 3.156894>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.534255, 5.654148, 3.155591>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.537099, 5.566577, 3.154536>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.540533, 5.453079, 3.153173>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.542799, 5.363410, 3.152174>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.545371, 5.260930, 3.150997>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.548238, 5.145642, 3.149630>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.550417, 5.055776, 3.148539>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.552011, 4.964077, 3.147444>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.554269, 4.833077, 3.145854>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.556052, 4.728279, 3.144563>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.559223, 4.648228, 3.145292>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.601219, 5.249359, 3.203183>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.629205, 5.650114, 3.241771>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.661844, 6.117662, 3.286789>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.699135, 6.652004, 3.338229>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.713647, 6.773870, 3.357106>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.714110, 6.680074, 3.356468>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.714569, 6.586279, 3.355824>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.715211, 6.452289, 3.354902>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.715610, 6.357240, 3.354407>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.716056, 6.233527, 3.353992>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.716446, 6.123561, 3.353619>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.716833, 6.013597, 3.353240>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.717096, 5.916597, 3.353036>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.717208, 5.775730, 3.353223>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.717286, 5.677124, 3.353351>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.717361, 5.578519, 3.353476>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.717436, 5.479915, 3.353598>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.716795, 5.350156, 3.354730>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.716267, 5.249221, 3.355648>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.715740, 5.148288, 3.356561>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.714983, 5.004092, 3.357866>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.713788, 4.901035, 3.359436>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.712506, 4.797864, 3.361076>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.711029, 4.679947, 3.362943>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.709352, 4.547284, 3.365034>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.707607, 4.442750, 3.366967>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.705196, 4.322321, 3.369450>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.702146, 4.171762, 3.372529>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.699995, 4.066356, 3.374660>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.697612, 3.959990, 3.376930>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.693681, 3.806205, 3.380471>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.691285, 3.713922, 3.382575>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.686857, 3.544712, 3.386358>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.683928, 3.435820, 3.388817>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.679988, 3.294382, 3.392070>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.677328, 3.200082, 3.394203>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.673301, 3.058620, 3.397337>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.679788, 3.045529, 3.408970>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.755900, 3.686672, 3.490379>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.804280, 4.094666, 3.542134>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.852641, 4.502660, 3.593831>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.899786, 4.848068, 3.646899>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.897480, 4.735479, 3.649058>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.893821, 4.558562, 3.652354>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.891452, 4.445982, 3.654405>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.889349, 4.332515, 3.656325>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.887394, 4.184719, 3.658526>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.885635, 4.053353, 3.660440>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.883412, 3.889158, 3.662776>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.882105, 3.773115, 3.664300>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.881037, 3.639067, 3.665896>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.879690, 3.471520, 3.667845>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.878730, 3.354240, 3.669193>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.888048, 3.385605, 3.683150>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.943981, 4.028542, 3.755421>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<2.979563, 4.437685, 3.801404>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.010059, 4.788385, 3.840804>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.047452, 5.173182, 3.889439>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.047587, 5.019197, 3.890522>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.047698, 4.882324, 3.891476>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.047801, 4.745453, 3.892423>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.047872, 4.642702, 3.893127>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.048645, 4.485571, 3.894011>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.049420, 4.328435, 3.894885>)
+19:15:16 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.050014, 4.206218, 3.895558>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.050604, 4.083995, 3.896231>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.052617, 3.906626, 3.896700>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.054175, 3.782243, 3.896967>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.056161, 3.622321, 3.897306>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.057489, 3.515698, 3.897531>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.059971, 3.371770, 3.897593>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.062844, 3.227107, 3.897513>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.065713, 3.082432, 3.897417>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.068938, 2.919659, 3.897292>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.071828, 2.791638, 3.897061>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.076428, 2.607470, 3.896542>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.080553, 2.441701, 3.896029>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.083747, 2.312760, 3.895601>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.088729, 2.126191, 3.894858>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.094441, 1.919813, 3.893895>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.098580, 1.769702, 3.893131>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.102201, 1.638339, 3.892418>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.106418, 1.447595, 3.892059>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.111001, 1.237645, 3.891608>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.115564, 1.027683, 3.891064>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.117384, 0.853654, 3.891729>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.119418, 0.582176, 3.893137>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.120982, 0.368882, 3.894188>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.119787, 0.191803, 3.896635>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.117666, -0.044725, 3.900136>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.116000, -0.222100, 3.902721>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.142577, 0.008771, 3.943710>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.170233, 0.338769, 3.984218>)
+19:15:17 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.139825, 0.149171, 4.224891>)
+19:15:19 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.189397, 0.438419, 4.284364>)
+19:15:22 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.226836, 0.754393, 4.393179>)
+19:15:22 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.259809, 2.259739, 4.504791>)
+19:15:23 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.324770, 3.761225, 4.761131>)
+19:15:23 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.415918, 5.584743, 5.029826>)
+19:15:23 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.574389, 7.444789, 5.278145>)
+19:15:23 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.728842, 8.586360, 5.531363>)
+19:15:23 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.849410, 10.297719, 5.806492>)
+19:15:23 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<3.993788, 10.906786, 6.087911>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.203353, 11.481718, 6.354860>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.413343, 12.363525, 6.624753>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.549582, 9.097731, 6.964651>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.551170, 8.977924, 6.965028>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.552748, 8.858116, 6.965400>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.554550, 8.721186, 6.965823>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.556414, 8.583937, 6.966226>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.559330, 8.444506, 6.966376>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.561888, 8.322492, 6.966494>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.564432, 8.200473, 6.966599>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.571253, 7.901926, 6.966660>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.579645, 7.582163, 6.966308>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.588212, 7.277303, 6.965671>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.599168, 6.915102, 6.964427>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.608616, 6.603354, 6.963089>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.618669, 6.271548, 6.961315>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.691345, 7.651989, 7.110448>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.778249, 9.425059, 7.293919>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.789200, 9.150128, 7.298854>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.796640, 8.774075, 7.296556>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.799380, 8.564820, 7.295739>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.802314, 8.336577, 7.294780>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.803993, 8.164346, 7.294196>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.804805, 7.990598, 7.293878>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.805686, 7.797559, 7.293503>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.806459, 7.623837, 7.293149>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.806592, 7.428098, 7.293233>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.806537, 7.212183, 7.293442>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.806479, 7.035534, 7.293604>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.806101, 6.837644, 7.294003>)
+19:15:24 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.805270, 6.598223, 7.294740>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.804563, 6.398715, 7.295340>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.803259, 6.197942, 7.296460>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.800625, 5.974598, 7.298799>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.795459, 5.568099, 7.303207>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.783981, 5.114022, 7.312093>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.771155, 4.718953, 7.321037>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.755626, 4.341591, 7.330716>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.722747, 3.683509, 7.347915>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.711308, 3.470083, 7.353011>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.695472, 3.188782, 7.359357>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.684343, 2.994011, 7.363348>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.671845, 2.777577, 7.367387>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.660889, 2.579756, 7.370601>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.651049, 2.403888, 7.373186>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.636159, 2.140059, 7.376562>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.627741, 1.985263, 7.378243>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.615427, 1.739715, 7.380521>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.607548, 1.583453, 7.381741>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.595098, 1.337892, 7.383298>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.587039, 1.157262, 7.384348>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.576370, 0.908162, 7.385602>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.569551, 0.749652, 7.386221>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.559183, 0.499963, 7.386963>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.553060, 0.316371, 7.387612>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.545391, 0.086905, 7.388249>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.536188, -0.188415, 7.388753>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.522319, -0.243366, 7.392125>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.503260, -0.278837, 7.395960>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.490049, -0.303420, 7.397804>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.473779, -0.325306, 7.405792>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.486215, -0.243853, 7.450481>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.500155, -0.153264, 7.499793>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.515650, -0.053517, 7.553610>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.522248, 0.156124, 7.603553>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.529278, 0.508261, 7.677031>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.539122, 0.988546, 7.776598>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.526996, 1.059231, 7.782171>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.516104, 1.082274, 7.779025>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.506508, 1.102773, 7.776033>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.494962, 1.017539, 7.772343>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.485164, 0.809047, 7.769166>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.475431, 0.600570, 7.765746>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.466830, 0.415263, 7.762508>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.454401, 0.335178, 7.773189>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.447082, 0.327128, 7.782563>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.434278, 0.313053, 7.798455>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.443301, 0.459129, 7.841010>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.458762, 0.681076, 7.902556>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.477226, 0.947426, 7.975929>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.482762, 1.128277, 8.014339>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.479346, 1.288518, 8.034727>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.476201, 1.430962, 8.052623>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.471714, 1.626827, 8.076878>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.464197, 1.476393, 8.069680>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.455175, 1.264922, 8.057549>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.447816, 1.095745, 8.047645>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.441570, 0.857761, 8.036064>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.443776, 0.545979, 8.027172>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.445222, 0.327715, 8.020791>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.448013, -0.099538, 8.006892>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.449484, -0.101930, 7.997443>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.451072, -0.104901, 7.986004>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.452036, -0.106944, 7.978337>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.455809, 0.338090, 8.033044>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.459745, 0.840780, 8.096961>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.464087, 1.399222, 8.168049>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.466911, 1.754316, 8.211727>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.467312, 1.755046, 8.202109>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.467656, 1.755551, 8.194588>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.468072, 1.756042, 8.186319>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.465085, 1.659985, 8.177718>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.454423, 1.339875, 8.163284>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.447667, 1.136130, 8.154363>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.437092, 0.815913, 8.140736>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.436489, 0.783068, 8.135139>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.437207, 0.777483, 8.127581>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.437740, 0.773433, 8.122484>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.438951, 0.732328, 8.112956>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.440921, 0.620656, 8.099362>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.443108, 0.495091, 8.084550>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.446365, 0.304192, 8.062963>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.447024, 0.302683, 8.060538>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.447541, 0.301441, 8.058883>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.448178, 0.299767, 8.057312>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.450370, 0.648810, 8.084708>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.455459, 1.527964, 8.154302>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.459018, 2.143370, 8.203019>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.465118, 3.198351, 8.286534>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.465839, 3.227997, 8.288787>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.466817, 3.226401, 8.288654>)
+19:15:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<4.467715, 3.225982, 8.288727>)
+19:15:28 | "tsifthanos" (steamid=76561198123155229) toggled godmode
+19:15:37 | "76561198123155229" (steamid=76561198123155229) teleported to (pos=<1335.400024, 11.111211, 15241.900391>)
+19:15:37 | "tsifthanos": (steamid=76561198123155229) teleported to (pos=1335.4,0,15241.9)
+19:15:55 | Player "tsifthanos" (steamId=76561198123155229) initiated disconnect process...
+19:15:56 | Player "tsifthanos" (steamId=76561198123155229) disconnected early from server (EXIT NOW).
+19:16:5 | Player "tsifthanos" (steamId=76561198123155229) disconnected from server.

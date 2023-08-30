@@ -1,0 +1,12 @@
+{
+    "Debugging": 0,
+    "OnlySelected": 1,
+    "Vehicles": [
+        "OffroadHatchback"
+    ],
+    "AllowOther": 0,
+    "OtherClasses": [
+        "KiloSubmarine",
+        "AnotherObjectToLink"
+    ]
+}

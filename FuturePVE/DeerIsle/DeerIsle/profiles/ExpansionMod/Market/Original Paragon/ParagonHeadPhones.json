@@ -1,0 +1,25 @@
+{
+  "m_Version": 12,
+  "DisplayName": "HP",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "Paragon_HP_Black",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_HP_Blue",
+        "Paragon_HP_Desert",
+        "Paragon_HP_Green"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "m_Version": 12,
+  "DisplayName": "TacticalGloves",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "Paragon_TacticalGloves_Black",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_TacticalGloves_Black_WL",
+        "Paragon_TacticalGloves_White",
+        "Paragon_TacticalGloves_WL",
+        "Paragon_TacticalGloves_Fatigue",
+        "Paragon_TacticalGloves_Blue",
+        "Paragon_TacticalGloves_Desert",
+        "Paragon_TacticalGloves_Green",
+        "Paragon_TacticalGloves_Navy"
+      ]
+    }
+  ]
+}

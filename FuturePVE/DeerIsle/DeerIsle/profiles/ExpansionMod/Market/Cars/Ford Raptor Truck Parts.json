@@ -1,0 +1,164 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Ford Raptor Truck Parts",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "FordRaptorTruck_Trunk",
+            "MaxPriceThreshold": 200.0,
+            "MinPriceThreshold": 200.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FordRaptorTruck_Trunk_Baja",
+            "MaxPriceThreshold": 200.0,
+            "MinPriceThreshold": 200.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FordRaptorTruck_Trunk_StarsAndStripes",
+            "MaxPriceThreshold": 200.0,
+            "MinPriceThreshold": 200.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FordRaptorTruck_Trunk_Black",
+            "MaxPriceThreshold": 200.0,
+            "MinPriceThreshold": 200.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FordRaptorTruck_Driver",
+            "MaxPriceThreshold": 200.0,
+            "MinPriceThreshold": 200.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FordRaptorTruck_Driver_Baja",
+            "MaxPriceThreshold": 200.0,
+            "MinPriceThreshold": 200.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FordRaptorTruck_Driver_StarsAndStripes",
+            "MaxPriceThreshold": 200.0,
+            "MinPriceThreshold": 200.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FordRaptorTruck_Driver_Black",
+            "MaxPriceThreshold": 200.0,
+            "MinPriceThreshold": 200.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FordRaptorTruck_CoDriver",
+            "MaxPriceThreshold": 200.0,
+            "MinPriceThreshold": 200.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FordRaptorTruck_CoDriver_Baja",
+            "MaxPriceThreshold": 200.0,
+            "MinPriceThreshold": 200.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FordRaptorTruck_CoDriver_StarsAndStripes",
+            "MaxPriceThreshold": 200.0,
+            "MinPriceThreshold": 200.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FordRaptorTruck_CoDriver_Black",
+            "MaxPriceThreshold": 200.0,
+            "MinPriceThreshold": 200.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FordRaptorTruck_Wheel_Flame",
+            "MaxPriceThreshold": 500.0,
+            "MinPriceThreshold": 500.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FordRaptorTruck_Wheel",
+            "MaxPriceThreshold": 200.0,
+            "MinPriceThreshold": 200.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

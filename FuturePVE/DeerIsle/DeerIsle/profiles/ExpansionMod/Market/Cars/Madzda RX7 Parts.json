@@ -1,0 +1,164 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Madzda RX7 Parts",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "RX7FD3S_koleso",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RX7FD3S_dver_1_1",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RX7FD3S_dver_2_1",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RX7FD3S_kapot",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RX7FD3S_bagazhnik",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RX7FD3S_kapot_Carbon",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RX7FD3S_dver_1_1_Black",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RX7FD3S_dver_2_1_Black",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RX7FD3S_kapot_Black",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RX7FD3S_bagazhnik_Black",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RX7FD3S_dver_1_1_Red",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RX7FD3S_dver_2_1_Red",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RX7FD3S_kapot_Red",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RX7FD3S_bagazhnik_Red",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

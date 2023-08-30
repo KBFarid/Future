@@ -1,0 +1,34 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Stalker SevaMark",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "FS_SevaMark2_ClearSky",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"FS_SevaMark2_DOLG",
+			"FS_SevaMark2_Svoboda",
+			"FS_SevaMark2_Svoboda2",
+			"FS_SevaMark2_Naim",
+			"FS_SevaMark2_Monolit",
+			"FS_SevaMark2_EcoOrange",
+			"FS_SevaMark2_EcoGreen",
+			"FS_SevaMark2_brown",
+			"FS_SevaMark2_Green",
+			"FS_SevaMark2_Camo",
+			"FS_SevaMark2_Camo2",
+			"FS_SevaMark2_Black"
+			]
+        }
+    ]
+}

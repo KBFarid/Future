@@ -1,0 +1,54 @@
+{
+    "m_Version": 12,
+    "DisplayName": "WarthogM12S",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "WarthogM12S",
+            "MaxPriceThreshold": 350000.0,
+            "MinPriceThreshold": 350000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WarthogM12S_Blue",
+            "MaxPriceThreshold": 350000.0,
+            "MinPriceThreshold": 350000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WarthogM12S_Black",
+            "MaxPriceThreshold": 350000.0,
+            "MinPriceThreshold": 350000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WarthogM12S_Red",
+            "MaxPriceThreshold": 350000.0,
+            "MinPriceThreshold": 350000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

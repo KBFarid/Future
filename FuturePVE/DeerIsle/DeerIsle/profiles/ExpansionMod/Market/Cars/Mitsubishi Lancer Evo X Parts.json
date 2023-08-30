@@ -1,0 +1,153 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Mitsubishi Lancer Evo X Parts",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "LancerEvoX_koleso",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LancerEvoX_dver_1_1",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LancerEvoX_dver_2_1",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LancerEvoX_dver_1_2",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LancerEvoX_dver_2_2",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LancerEvoX_kapot",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LancerEvoX_bagazhnik",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LancerEvoX_dver_1_1_White",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LancerEvoX_dver_2_1_White",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LancerEvoX_dver_1_2_White",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LancerEvoX_dver_2_2_White",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LancerEvoX_kapot_White",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LancerEvoX_bagazhnik_White",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

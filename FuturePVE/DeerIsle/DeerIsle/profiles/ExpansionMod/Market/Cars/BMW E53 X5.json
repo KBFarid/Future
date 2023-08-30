@@ -1,0 +1,32 @@
+{
+    "m_Version": 12,
+    "DisplayName": "BMW E53 X5",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "CrSk_BMW_X5_E53",
+            "MaxPriceThreshold": 1100000.0,
+            "MinPriceThreshold": 1100000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CrSk_BMW_X5_E53_Blue",
+            "MaxPriceThreshold": 1100000.0,
+            "MinPriceThreshold": 1100000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

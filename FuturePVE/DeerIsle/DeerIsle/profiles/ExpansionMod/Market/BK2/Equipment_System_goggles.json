@@ -1,0 +1,97 @@
+{
+	
+    "m_Version": 12,
+    "DisplayName": "Equipment System googles",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 5.0,
+    "Items": [
+		{
+            "ClassName": "IMP_Goggles_Ballistic_Black",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 180,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Goggles_Ballistic_Green",
+                "IMP_Goggles_Ballistic_Desert"				
+            ]
+        },
+		{
+            "ClassName": "IMP_Goggles_BolleCobra",
+            "MaxPriceThreshold": 190,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [					
+            ]
+        },
+		{
+            "ClassName": "IMP_Goggles_BolleContour",
+            "MaxPriceThreshold": 160,
+            "MinPriceThreshold": 120,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [					
+            ]
+        },
+		{
+            "ClassName": "IMP_Goggles_ESSCrossbow",
+            "MaxPriceThreshold": 170,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [					
+            ]
+        },
+		{
+            "ClassName": "IMP_Goggles_ESSICE",
+            "MaxPriceThreshold": 160,
+            "MinPriceThreshold": 120,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [					
+            ]
+        },
+		{
+            "ClassName": "IMP_Goggles_ESSRollbar",
+            "MaxPriceThreshold": 180,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [					
+            ]
+        },
+		{
+            "ClassName": "IMP_Goggles_Oakley",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 120,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [					
+            ]
+        }
+    ]
+}

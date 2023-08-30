@@ -1,0 +1,219 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Lamborghini Urus Parts",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "LamboUrus_koleso",
+            "MaxPriceThreshold": 75000.0,
+            "MinPriceThreshold": 75000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LamboUrus_dver_1_1",
+            "MaxPriceThreshold": 95000.0,
+            "MinPriceThreshold": 95000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LamboUrus_dver_2_1",
+            "MaxPriceThreshold": 95000.0,
+            "MinPriceThreshold": 95000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LamboUrus_dver_1_2",
+            "MaxPriceThreshold": 95000.0,
+            "MinPriceThreshold": 95000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LamboUrus_dver_2_2",
+            "MaxPriceThreshold": 95000.0,
+            "MinPriceThreshold": 95000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LamboUrus_kapot",
+            "MaxPriceThreshold": 95000.0,
+            "MinPriceThreshold": 95000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LamboUrus_bagazhnik",
+            "MaxPriceThreshold": 95000.0,
+            "MinPriceThreshold": 95000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LamboUrus_dver_1_1_Pink",
+            "MaxPriceThreshold": 95000.0,
+            "MinPriceThreshold": 95000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LamboUrus_dver_2_1_Pink",
+            "MaxPriceThreshold": 95000.0,
+            "MinPriceThreshold": 95000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LamboUrus_dver_1_2_Pink",
+            "MaxPriceThreshold": 95000.0,
+            "MinPriceThreshold": 95000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LamboUrus_dver_2_2_Pink",
+            "MaxPriceThreshold": 95000.0,
+            "MinPriceThreshold": 95000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LamboUrus_kapot_Pink",
+            "MaxPriceThreshold": 95000.0,
+            "MinPriceThreshold": 95000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LamboUrus_bagazhnik_Pink",
+            "MaxPriceThreshold": 95000.0,
+            "MinPriceThreshold": 95000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LamboUrus_dver_1_1_Black",
+            "MaxPriceThreshold": 95000.0,
+            "MinPriceThreshold": 95000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LamboUrus_dver_2_1_Black",
+            "MaxPriceThreshold": 95000.0,
+            "MinPriceThreshold": 95000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LamboUrus_dver_1_2_Black",
+            "MaxPriceThreshold": 95000.0,
+            "MinPriceThreshold": 95000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LamboUrus_dver_2_2_Black",
+            "MaxPriceThreshold": 95000.0,
+            "MinPriceThreshold": 95000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LamboUrus_kapot_Black",
+            "MaxPriceThreshold": 95000.0,
+            "MinPriceThreshold": 95000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LamboUrus_bagazhnik_Black",
+            "MaxPriceThreshold": 95000.0,
+            "MinPriceThreshold": 95000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "m_Version": 12,
+    "DisplayName": "FordBroncoXLT80",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "FordBroncoXLT80",
+            "MaxPriceThreshold": 250000.0,
+            "MinPriceThreshold": 250000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FordBroncoXLT80_Black",
+            "MaxPriceThreshold": 250000.0,
+            "MinPriceThreshold": 250000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FordBroncoXLT80_Blue",
+            "MaxPriceThreshold": 250000.0,
+            "MinPriceThreshold": 250000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FordBroncoXLT80_Red",
+            "MaxPriceThreshold": 250000.0,
+            "MinPriceThreshold": 250000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FordBroncoXLT80_Rust",
+            "MaxPriceThreshold": 250000.0,
+            "MinPriceThreshold": 250000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Subaru Impreza WRX STI F4 2009",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "SubaruImprezaWRXF4",
+            "MaxPriceThreshold": 2200000.0,
+            "MinPriceThreshold": 2200000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SubaruImprezaWRXF4_Blue",
+            "MaxPriceThreshold": 2200000.0,
+            "MinPriceThreshold": 2200000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SubaruImprezaWRXF4_Black",
+            "MaxPriceThreshold": 2200000.0,
+            "MinPriceThreshold": 2200000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SubaruImprezaWRXF4_White",
+            "MaxPriceThreshold": 2200000.0,
+            "MinPriceThreshold": 2200000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SubaruImprezaWRXF4_Green",
+            "MaxPriceThreshold": 2200000.0,
+            "MinPriceThreshold": 2200000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SubaruImprezaWRXF4_Chrome",
+            "MaxPriceThreshold": 2200000.0,
+            "MinPriceThreshold": 2200000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SubaruImprezaWRXF4_Purple",
+            "MaxPriceThreshold": 2200000.0,
+            "MinPriceThreshold": 2200000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Typhoon K53949",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "CrSk_Typhoon_K_53949",
+            "MaxPriceThreshold": 3350000.0,
+            "MinPriceThreshold": 3350000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CrSk_Typhoon_K_53949_khaki",
+            "MaxPriceThreshold": 3350000.0,
+            "MinPriceThreshold": 3350000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CrSk_Typhoon_K_53949_Tan",
+            "MaxPriceThreshold": 3350000.0,
+            "MinPriceThreshold": 3350000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CrSk_Typhoon_K_53949_Grey",
+            "MaxPriceThreshold": 3350000.0,
+            "MinPriceThreshold": 3350000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

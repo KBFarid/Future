@@ -1,0 +1,178 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-8-28_19-20-56
+====================================================================================
+19:20:56 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+19:20:56 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+19:20:56 | [PermissionManager] Perm (FreeCamera) has been registered!
+19:20:56 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+19:20:56 | [PermissionManager] Perm (MenuItemManager) has been registered!
+19:20:56 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+19:20:56 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+19:20:56 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+19:20:56 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+19:20:56 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+19:20:56 | [PermissionManager] Perm (MenuServerManager) has been registered!
+19:20:56 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+19:20:56 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+19:20:56 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+19:20:56 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+19:20:56 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+19:20:56 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+19:20:56 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+19:20:56 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+19:20:56 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+19:20:56 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+19:20:56 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+19:20:56 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+19:20:56 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+19:20:56 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+19:20:56 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+19:20:56 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+19:20:56 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+19:20:56 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+19:20:56 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+19:20:56 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+19:20:56 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+19:20:56 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+19:20:56 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+19:20:56 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+19:20:56 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+19:20:56 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+19:20:56 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+19:20:56 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+19:20:56 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+19:20:56 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+19:20:56 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+19:20:56 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+19:20:56 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+19:20:56 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+19:20:56 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+19:20:56 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+19:20:56 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+19:20:56 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+19:20:56 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+19:20:56 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+19:20:56 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+19:20:56 | [PermissionManager] Perm (MenuBansManager) has been registered!
+19:20:56 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+19:20:56 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+19:20:56 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+19:20:56 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+19:20:56 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+19:20:56 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+19:20:56 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+19:20:56 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+19:20:56 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+19:20:56 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+19:20:56 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+19:20:56 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+19:20:56 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+19:20:56 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+19:20:56 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+19:20:56 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+19:20:56 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+19:20:56 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+19:20:56 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+19:20:56 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+19:20:56 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+19:20:56 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+19:20:56 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+19:20:56 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+19:20:56 | [PermissionManager] Adding Super Admin (76561198811763280)
+19:20:56 | [PermissionManager] Loaded UserGroups.json
+19:20:56 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+19:20:56 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+19:20:56 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+19:20:56 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+19:20:56 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+19:20:56 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+19:20:56 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+19:20:56 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+19:20:56 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+19:20:56 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+19:20:56 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+19:20:56 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+19:20:56 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+19:20:56 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+19:20:56 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+19:20:56 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+19:20:56 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+19:20:56 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+19:20:56 | Building Sets Loaded: 9
+19:20:59 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+19:20:59 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+19:22:48 | Player "tsifthanos" (steamId=76561198123155229) connected to server!
+19:23:1 | "tsifthanos" (steamid=76561198123155229) toggled godmode
+19:23:5 | "tsifthanos" (steamid=76561198123155229) toggled freecam
+19:23:18 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<11218.467773, 2.193918, 11628.016602>)
+19:23:19 | "tsifthanos" (steamid=76561198123155229) toggled freecam
+19:25:25 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<11284.214844, 1.108279, 11665.966797>)
+19:26:44 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<11271.000000, 1.975861, 11662.912109>)
+19:26:51 | "tsifthanos" (steamid=76561198123155229) toggled freecam
+19:26:55 | "tsifthanos" (steamid=76561198123155229) toggled freecam
+19:27:3 | "76561198123155229" (steamid=76561198123155229) teleported to (pos=<10738.099609, 2.686835, 11883.000000>)
+19:27:3 | "tsifthanos": (steamid=76561198123155229) teleported to (pos=10738.1,0,11883)
+19:27:7 | "tsifthanos" (steamid=76561198123155229) toggled freecam
+19:27:13 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<11242.352539, 0.251561, 11648.665039>)
+19:27:14 | "tsifthanos" (steamid=76561198123155229) toggled freecam
+19:29:5 | "tsifthanos" (steamid=76561198123155229) deleted object "RFWC_DragBoat_Black" (pos=<11273.692383, 0.188497, 11657.907227>)
+19:31:1 | Player "tsifthanos" (steamId=76561198123155229) initiated disconnect process...
+19:31:7 | Player "tsifthanos" (steamId=76561198123155229) disconnected early from server (EXIT NOW).
+19:31:11 | Player "tsifthanos" (steamId=76561198123155229) disconnected from server.
+19:48:44 | Player "Royal THC" (steamId=76561198039626905) connected to server!
+19:50:7 | "Royal THC": (steamid=76561198039626905) teleported to (pos=Center Of The Earth)
+19:50:16 | "Royal THC" (steamid=76561198039626905) toggled godmode
+19:50:20 | "Royal THC" (steamid=76561198039626905) teleported to crosshair (pos=<7551.350098, 106.794662, 10009.975586>)
+19:50:34 | "Royal THC" (steamid=76561198039626905) toggled freecam
+19:50:44 | "Royal THC" (steamid=76561198039626905) teleported to crosshair (pos=<6202.500977, 15.623263, 6255.804688>)
+19:50:47 | "Royal THC" (steamid=76561198039626905) toggled freecam
+19:52:5 | "Royal THC" (steamid=76561198039626905) /heal used on: "Royal THC" (steamid=76561198039626905)
+19:53:22 | "Royal THC" (steamid=76561198039626905) Spawned Item: (IMP_Helmet_RoninMedium)
+19:53:36 | "Royal THC" (steamid=76561198039626905) Spawned Item: (IMP_Helmet_RoninHeavy_Black)
+19:54:18 | "Royal THC" (steamid=76561198039626905) Spawned Item: (IMP_Helmet_Mich_Skull)
+19:54:44 | "Royal THC" (steamid=76561198039626905) Spawned Item: (IMP_Helmet_Mandalor_Hexagon)
+19:54:47 | "Royal THC" (steamid=76561198039626905) Spawned Item: (IMP_Helmet_Mandalor_Med)
+19:55:10 | "Royal THC" (steamid=76561198039626905) Spawned Item: (Renegade_BlackAdminHelmet)
+19:55:38 | "Royal THC" (steamid=76561198039626905) Spawned Item: (Renegade_BlackAdminHelmet)
+19:56:36 | "Royal THC" (steamid=76561198039626905) Spawned Item: (IMP_Bag_Rifle_Black)
+19:56:45 | "Royal THC" (steamid=76561198039626905) deleted object "Renegade_BlackAdminHelmet" (pos=<6205.768555, 17.695578, 6289.130371>)
+19:56:47 | "Royal THC" (steamid=76561198039626905) deleted object "IMP_Helmet_Mich_Skull" (pos=<6205.546875, 17.690777, 6289.130371>)
+19:57:3 | "Royal THC" (steamid=76561198039626905) deleted object "IMP_Helmet_RoninMedium" (pos=<6205.619629, 17.690777, 6290.265137>)
+19:57:21 | "Royal THC" (steamid=76561198039626905) Spawned Item: (IMP_Mask_Balaclava_Skull)
+19:58:27 | "Royal THC" (steamid=76561198039626905) Spawned Item: (IMP_Helmet_6B47_Cover_Black)
+19:58:39 | "Royal THC" (steamid=76561198039626905) deleted object "IMP_Helmet_6B47_Cover_Black" (pos=<6205.004395, 17.690777, 6291.713867>)
+19:59:11 | "Royal THC" (steamid=76561198039626905) Spawned Item: (IMP_Helmet_Mich_NWU)
+19:59:18 | "Royal THC" (steamid=76561198039626905) deleted object "IMP_Helmet_Mich_NWU" (pos=<6203.188477, 17.704229, 6294.224609>)
+19:59:31 | "Royal THC" (steamid=76561198039626905) Spawned Item: (AP_STAR_HelmetNT)
+19:59:51 | "Royal THC" (steamid=76561198039626905) Spawned Item: (TF_MICH2000Helmet_Black)
+19:59:58 | "Royal THC" (steamid=76561198039626905) deleted object "TF_MICH2000Helmet_Black" (pos=<6202.527832, 17.702785, 6295.786133>)
+20:0:4 | "Royal THC" (steamid=76561198039626905) Spawned Item: (IMP_Helmet_Mandalor_BlueMetall)
+20:0:11 | "Royal THC" (steamid=76561198039626905) Spawned Item: (Renegade_BlackBlueDarkHelmet)
+20:0:35 | "Royal THC" (steamid=76561198039626905) Spawned Item: (Mich2001Helmet_UKNL_Renegade)
+20:0:40 | "Royal THC" (steamid=76561198039626905) deleted object "Mich2001Helmet_UKNL_Renegade" (pos=<6202.316895, 17.695578, 6296.346680>)
+20:1:14 | "Royal THC" (steamid=76561198039626905) Spawned Item: (IMP_Helmet_6B47_Cover_Black)
+20:1:37 | "Royal THC" (steamid=76561198039626905) toggled freecam
+20:1:42 | "Royal THC" (steamid=76561198039626905) toggled freecam
+20:2:2 | "Royal THC" (steamid=76561198039626905) Spawned Item: (WorkingGloves_Black)
+20:2:9 | "Royal THC" (steamid=76561198039626905) deleted object "WorkingGloves_Black" (pos=<6202.137695, 17.745176, 6296.923340>)
+20:2:13 | "Royal THC" (steamid=76561198039626905) Spawned Item: (TacticalGloves_Black)
+20:2:18 | "Royal THC" (steamid=76561198039626905) deleted object "TacticalGloves_Black" (pos=<6202.389648, 17.695267, 6297.598145>)
+20:2:26 | "Royal THC" (steamid=76561198039626905) Spawned Item: (OMNOGloves_Gray)
+20:2:31 | "Royal THC" (steamid=76561198039626905) deleted object "OMNOGloves_Gray" (pos=<6202.887695, 17.720892, 6298.121582>)
+20:2:41 | "Royal THC" (steamid=76561198039626905) Spawned Item: (WoolGloves_Black)
+20:4:0 | "Royal THC" (steamid=76561198039626905) Spawned Item: (JungleBoots_Black)
+20:4:5 | "Royal THC" (steamid=76561198039626905) deleted object "JungleBoots_Black" (pos=<6203.440430, 17.698141, 6298.564453>)
+20:4:27 | "Royal THC" (steamid=76561198039626905) Spawned Item: (MilitaryBoots_Redpunk)
+20:5:19 | "Royal THC" (steamid=76561198039626905) Spawned Item: (Renegade_ArmbandGhillie)
+20:5:31 | "Royal THC" (steamid=76561198039626905) Spawned Item: (Renegade_BlackGhillieArmband)
+20:6:20 | "Royal THC" (steamid=76561198039626905) Spawned Item: (Renegade_BlackBlueDarkSmershVest)
+20:6:26 | "Royal THC" (steamid=76561198039626905) deleted object "Renegade_BlackBlueDarkSmershVest" (pos=<6205.158691, 17.702505, 6298.934082>)
+20:7:11 | "Royal THC" (steamid=76561198039626905) Spawned Item: (FS_TacticalVest_Black)
+20:7:34 | "Royal THC" (steamid=76561198039626905) Spawned Item: (FS_Plash_Tactical_black)
+20:8:1 | "Royal THC" (steamid=76561198039626905) Spawned Item: (IMP_Jacket_TacticalShirt_80_Black)
+20:8:8 | "Royal THC" (steamid=76561198039626905) deleted object "IMP_Jacket_TacticalShirt_80_Black" (pos=<6206.938965, 17.693054, 6298.529785>)
+20:8:29 | "Royal THC" (steamid=76561198039626905) Spawned Item: (Paragon_TacticalGloves_Black)
+20:8:34 | "Royal THC" (steamid=76561198039626905) deleted object "Paragon_TacticalGloves_Black" (pos=<6207.433594, 17.695267, 6299.026367>)
+20:9:34 | "Royal THC" (steamid=76561198039626905) Spawned Item: (Renegade_BlackCamoGorkaJacket)
+20:9:49 | "Royal THC" (steamid=76561198039626905) Spawned Item: (Renegade_NavyGoldM65Jacket)
+20:9:52 | Player "Royal THC" (steamId=76561198039626905) initiated disconnect process...

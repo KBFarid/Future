@@ -1,0 +1,76 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Kamaz 4350",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "Kamaz_4350",
+            "MaxPriceThreshold": 3950000.0,
+            "MinPriceThreshold": 3950000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Kamaz_4350_flora",
+            "MaxPriceThreshold": 3950000.0,
+            "MinPriceThreshold": 3950000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Kamaz_4350_old",
+            "MaxPriceThreshold": 3950000.0,
+            "MinPriceThreshold": 3950000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Kamaz_4350_pixel",
+            "MaxPriceThreshold": 3950000.0,
+            "MinPriceThreshold": 3950000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Kamaz_4350_black",
+            "MaxPriceThreshold": 3950000.0,
+            "MinPriceThreshold": 3950000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Kamaz_4350_winter",
+            "MaxPriceThreshold": 3950000.0,
+            "MinPriceThreshold": 3950000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

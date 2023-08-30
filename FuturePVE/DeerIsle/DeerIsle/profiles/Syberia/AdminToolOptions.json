@@ -1,0 +1,46 @@
+{
+  "m_adminUids": [
+    "3YcvhX2LFnVJeGsLbB2hIC_RRJZGTjvpfI5b7WPOMN8=",
+    "7bB1IPrnM_nQYyt6VOwHh6aRzpwlNmbhlqS8OA3S1gs=",
+    "xHrntqvF7K5G3WLO9BB2hUqRbs0QcNKxa4VtC6-9L_Y=",
+    "fRmrmJzsrNGM_vBB8hF8HA5ioUVNCOBT93cWTQ5YzSc=",
+    "c2-1dAZ-RU9T0OjQxuq6E0YyvZielbMKSJIflR5XfV0="
+  ],
+  "m_spawnerCategories": [
+    {
+      "m_name": "Items",
+      "m_preffix": "CfgVehicles",
+      "m_class": "Inventory_Base"
+    },
+    {
+      "m_name": "Weapons",
+      "m_preffix": "CfgWeapons",
+      "m_class": "*"
+    },
+    {
+      "m_name": "Magazines",
+      "m_preffix": "CfgMagazines",
+      "m_class": "*"
+    },
+    {
+      "m_name": "Clothes",
+      "m_preffix": "CfgVehicles",
+      "m_class": "Clothing"
+    },
+    {
+      "m_name": "Transport",
+      "m_preffix": "CfgVehicles",
+      "m_class": "Car"
+    },
+    {
+      "m_name": "Creatures",
+      "m_preffix": "CfgVehicles",
+      "m_class": "DZ_LightAI"
+    },
+    {
+      "m_name": "Buildings",
+      "m_preffix": "CfgVehicles",
+      "m_class": "House"
+    }
+  ]
+}

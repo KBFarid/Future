@@ -1,0 +1,101 @@
+{
+    "configVersion": 1,
+    "name": "MUTANT HEAD",
+    "shortname": "HEAD",
+    "level": 0,
+    "maxPlayers": 2,
+    "subGroupSize": 0,
+    "subGroupCount": 0,
+    "lastActivity": 1693383145,
+    "creationDate": 1693370102,
+    "markerLimit": 32,
+    "plotpoleLimit": 2,
+    "hasATMAccount": 0,
+    "showTagInChat": 1,
+    "hasCustomChatColor": 0,
+    "chatColorR": 0,
+    "chatColorG": 0,
+    "chatColorB": 0,
+    "ATMBalance": 0,
+    "members": [
+        {
+            "type": 4,
+            "uid": 89066333,
+            "name": "[HEAD] kotz",
+            "icon": "",
+            "position": [
+                10234.8603515625,
+                44.243896484375,
+                4926.6044921875
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
+            "creatorSteamID": "",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "showAllPlayerNametags": 0,
+            "steamid": "76561199180547967",
+            "permissionGroup": 9,
+            "online": 0,
+            "health": 100.0,
+            "tempMember": 0
+        }
+    ],
+    "markers": [
+        {
+            "type": 3,
+            "uid": 1617936655,
+            "name": "Death: [HEAD] kotz",
+            "icon": "LBmaster_Groups\\gui\\icons\\skull.paa",
+            "position": [
+                1000.0,
+                10000.0,
+                1000.0
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 0,
+            "colorB": 0,
+            "creatorSteamID": "76561199180547967_D",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "showAllPlayerNametags": 0
+        },
+        {
+            "type": 3,
+            "uid": 495401895,
+            "name": "Death: [HEAD] RBN",
+            "icon": "LBmaster_Groups\\gui\\icons\\skull.paa",
+            "position": [
+                1000.0,
+                10000.0,
+                1000.0
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 0,
+            "colorB": 0,
+            "creatorSteamID": "76561198362356498_D",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "showAllPlayerNametags": 0
+        }
+    ]
+}

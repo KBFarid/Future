@@ -1,0 +1,98 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Dodge Charger SRT Hellcat",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "DodgeChargerSRTHellcat",
+            "MaxPriceThreshold": 2500000.0,
+            "MinPriceThreshold": 2500000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "DodgeChargerSRTHellcat_Black",
+            "MaxPriceThreshold": 2500000.0,
+            "MinPriceThreshold": 2500000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "DodgeChargerSRTHellcat_Blue",
+            "MaxPriceThreshold": 2500000.0,
+            "MinPriceThreshold": 2500000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "DodgeChargerSRTHellcat_Lime",
+            "MaxPriceThreshold": 2500000.0,
+            "MinPriceThreshold": 2500000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "DodgeChargerSRTHellcat_Purple",
+            "MaxPriceThreshold": 2500000.0,
+            "MinPriceThreshold": 2500000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "DodgeChargerSRTHellcat_Red",
+            "MaxPriceThreshold": 2500000.0,
+            "MinPriceThreshold": 2500000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "DodgeChargerSRTHellcat_White",
+            "MaxPriceThreshold": 2500000.0,
+            "MinPriceThreshold": 2500000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "DodgeChargerSRTHellcat_Yellow",
+            "MaxPriceThreshold": 2500000.0,
+            "MinPriceThreshold": 2500000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

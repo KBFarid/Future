@@ -1,0 +1,102 @@
+{
+	
+    "m_Version": 12,
+    "DisplayName": "Equipment System jackets",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 5.0,
+    "Items": [
+		{
+            "ClassName": "IMP_Jacket_USMC_Black",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Jacket_USMC_Green",
+                "IMP_Jacket_USMC_Tan",
+                "IMP_Jacket_USMC_UC",				
+                "IMP_Jacket_USMC_NWU",
+                "IMP_Jacket_USMC_EMR",
+                "IMP_Jacket_USMC_MARPAT"					
+            ]
+        },
+		{
+            "ClassName": "IMP_Jacket_Raincoat",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 180,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+		{
+            "ClassName": "IMP_Jacket_Gorka_Black",
+            "MaxPriceThreshold": 190,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Jacket_Gorka_Forest",
+                "IMP_Jacket_Gorka_Tan",
+                "IMP_Jacket_Gorka_Jungle",				
+                "IMP_Jacket_Gorka_Police",
+                "IMP_Jacket_Gorka_Surpat",
+                "IMP_Jacket_Gorka_Winter"					
+            ]
+        },
+		{
+            "ClassName": "IMP_Jacket_TacticalShirt_UCP",
+            "MaxPriceThreshold": 220,
+            "MinPriceThreshold": 180,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Jacket_TacticalShirt_NWU",
+                "IMP_Jacket_TacticalShirt_EMR",
+                "IMP_Jacket_TacticalShirt_MARPAT"					
+            ]
+        },
+		{
+            "ClassName": "IMP_Jacket_M65_UCP",
+            "MaxPriceThreshold": 190,
+            "MinPriceThreshold": 170,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Jacket_M65_NWU",
+                "IMP_Jacket_M65_EMR",
+                "IMP_Jacket_M65_MARPAT"					
+            ]
+        },
+		{
+            "ClassName": "IMP_Jacket_GorkaN",
+            "MaxPriceThreshold": 190,
+            "MinPriceThreshold": 180,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Jacket_GorkaN_Gray"			
+            ]
+        }
+    ]
+}

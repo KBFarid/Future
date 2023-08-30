@@ -1,0 +1,556 @@
+{
+    "m_TeleportLocations": [
+        {
+            "m_Name": "BM Entrance",
+            "m_Position": [
+                11154.970703125,
+                38.96451187133789,
+                2266.853759765625
+            ]
+        },
+        {
+            "m_Name": "BM Inside",
+            "m_Position": [
+                11222.375,
+                3.262500047683716,
+                2377.635009765625
+            ]
+        },
+        {
+            "m_Name": "Concrete Underground",
+            "m_Position": [
+                8339.8740234375,
+                144.016357421875,
+                10887.8251953125
+            ]
+        },
+        {
+            "m_Name": "SkyTraderF",
+            "m_Position": [
+                373.1666259765625,
+                293.3517150878906,
+                599.8516235351563
+            ]
+        },
+        {
+            "m_Name": " | Archipelago",
+            "m_Position": [
+                2258.340087890625,
+                0.0,
+                13599.9501953125
+            ]
+        },
+        {
+            "m_Name": " | Area 42",
+            "m_Position": [
+                13379.0498046875,
+                0.0,
+                9849.6396484375
+            ]
+        },
+        {
+            "m_Name": " | Asheville",
+            "m_Position": [
+                7311.22998046875,
+                0.0,
+                2607.06005859375
+            ]
+        },
+        {
+            "m_Name": " | Bayville",
+            "m_Position": [
+                10178.3603515625,
+                0.0,
+                12011.759765625
+            ]
+        },
+        {
+            "m_Name": " | Crotch Island",
+            "m_Position": [
+                10812.1103515625,
+                0.0,
+                2584.110107421875
+            ]
+        },
+        {
+            "m_Name": " | East Harbor",
+            "m_Position": [
+                11363.580078125,
+                0.0,
+                10103.3701171875
+            ]
+        },
+        {
+            "m_Name": " | Eastbrook",
+            "m_Position": [
+                10417.400390625,
+                0.0,
+                7851.9501953125
+            ]
+        },
+        {
+            "m_Name": " | Fairfield",
+            "m_Position": [
+                9978.330078125,
+                0.0,
+                6825.93994140625
+            ]
+        },
+        {
+            "m_Name": " | Fishers Camp",
+            "m_Position": [
+                10343.419921875,
+                0.0,
+                5586.740234375
+            ]
+        },
+        {
+            "m_Name": " | Georgestown",
+            "m_Position": [
+                4716.6298828125,
+                0.0,
+                4469.669921875
+            ]
+        },
+        {
+            "m_Name": " | Greenville",
+            "m_Position": [
+                4744.7099609375,
+                0.0,
+                1492.5
+            ]
+        },
+        {
+            "m_Name": " | Hazelands",
+            "m_Position": [
+                4538.47998046875,
+                0.0,
+                2693.840087890625
+            ]
+        },
+        {
+            "m_Name": " | Industrial",
+            "m_Position": [
+                6787.0498046875,
+                0.0,
+                2376.030029296875
+            ]
+        },
+        {
+            "m_Name": " | Kushville",
+            "m_Position": [
+                7533.60009765625,
+                0.0,
+                3910.2099609375
+            ]
+        },
+        {
+            "m_Name": " | Montville",
+            "m_Position": [
+                9370.8896484375,
+                0.0,
+                8062.240234375
+            ]
+        },
+        {
+            "m_Name": " | Mountainville",
+            "m_Position": [
+                7291.0400390625,
+                0.0,
+                8511.830078125
+            ]
+        },
+        {
+            "m_Name": " | North Haven",
+            "m_Position": [
+                519.6900024414063,
+                0.0,
+                15113.509765625
+            ]
+        },
+        {
+            "m_Name": " | Oceanville",
+            "m_Position": [
+                10258.6298828125,
+                0.0,
+                4879.9599609375
+            ]
+        },
+        {
+            "m_Name": " | Old Town",
+            "m_Position": [
+                1840.6099853515626,
+                0.0,
+                9070.5595703125
+            ]
+        },
+        {
+            "m_Name": " | Oldfield",
+            "m_Position": [
+                6114.18994140625,
+                0.0,
+                6921.68994140625
+            ]
+        },
+        {
+            "m_Name": " | Powerplant",
+            "m_Position": [
+                4790.47998046875,
+                0.0,
+                7051.89013671875
+            ]
+        },
+        {
+            "m_Name": " | Prison",
+            "m_Position": [
+                5470.16015625,
+                0.0,
+                657.9600219726563
+            ]
+        },
+        {
+            "m_Name": " | Sandy Bay",
+            "m_Position": [
+                5347.7099609375,
+                0.0,
+                7584.4599609375
+            ]
+        },
+        {
+            "m_Name": " | Scouts Camp",
+            "m_Position": [
+                4930.43994140625,
+                0.0,
+                2049.25
+            ]
+        },
+        {
+            "m_Name": " | Scouts Camp",
+            "m_Position": [
+                4930.43994140625,
+                0.0,
+                2049.25
+            ]
+        },
+        {
+            "m_Name": " | Sheep Island",
+            "m_Position": [
+                11941.830078125,
+                0.0,
+                3882.22998046875
+            ]
+        },
+        {
+            "m_Name": " | Smallville",
+            "m_Position": [
+                10355.0400390625,
+                0.0,
+                4360.0
+            ]
+        },
+        {
+            "m_Name": " | Stonington Harbor",
+            "m_Position": [
+                6839.2998046875,
+                0.0,
+                1422.0400390625
+            ]
+        },
+        {
+            "m_Name": " | Suburbs South",
+            "m_Position": [
+                7206.72021484375,
+                0.0,
+                1492.3599853515626
+            ]
+        },
+        {
+            "m_Name": " | Sunset Cross",
+            "m_Position": [
+                6580.81982421875,
+                0.0,
+                6382.89990234375
+            ]
+        },
+        {
+            "m_Name": " | Swansisland",
+            "m_Position": [
+                1120.0,
+                0.0,
+                15363.080078125
+            ]
+        },
+        {
+            "m_Name": " | Threepwood",
+            "m_Position": [
+                9072.8896484375,
+                0.0,
+                7738.64990234375
+            ]
+        },
+        {
+            "m_Name": " | Waldoboro",
+            "m_Position": [
+                8730.990234375,
+                0.0,
+                9163.400390625
+            ]
+        },
+        {
+            "m_Name": " | Warren Cove",
+            "m_Position": [
+                7050.68017578125,
+                0.0,
+                5360.81982421875
+            ]
+        },
+        {
+            "m_Name": " | Westbrook",
+            "m_Position": [
+                3302.840087890625,
+                0.0,
+                6372.33984375
+            ]
+        },
+        {
+            "m_Name": " | Woodworking Industrial",
+            "m_Position": [
+                4446.97021484375,
+                0.0,
+                12078.1396484375
+            ]
+        },
+        {
+            "m_Name": "Airport | Airfield",
+            "m_Position": [
+                5508.0498046875,
+                0.0,
+                3555.0
+            ]
+        },
+        {
+            "m_Name": "CityCapi | Portland",
+            "m_Position": [
+                6100.009765625,
+                0.0,
+                14802.419921875
+            ]
+        },
+        {
+            "m_Name": "CityCapita | Stonington",
+            "m_Position": [
+                6829.419921875,
+                0.0,
+                1860.6800537109376
+            ]
+        },
+        {
+            "m_Name": "Hill | Baren Fall",
+            "m_Position": [
+                7632.4501953125,
+                0.0,
+                9823.98046875
+            ]
+        },
+        {
+            "m_Name": "Hill | Groots Hill",
+            "m_Position": [
+                7618.2998046875,
+                0.0,
+                4822.97998046875
+            ]
+        },
+        {
+            "m_Name": "Hill | Pauls View",
+            "m_Position": [
+                9561.75,
+                0.0,
+                3716.429931640625
+            ]
+        },
+        {
+            "m_Name": "Hill | Pear Plantation",
+            "m_Position": [
+                9570.5400390625,
+                0.0,
+                7613.580078125
+            ]
+        },
+        {
+            "m_Name": "Hill | RCFI",
+            "m_Position": [
+                3732.699951171875,
+                0.0,
+                8812.9697265625
+            ]
+        },
+        {
+            "m_Name": "Hill | Rockenheim Circuit",
+            "m_Position": [
+                10060.0400390625,
+                0.0,
+                11060.91015625
+            ]
+        },
+        {
+            "m_Name": "Hill | Suburbs North",
+            "m_Position": [
+                6335.52978515625,
+                0.0,
+                2043.489990234375
+            ]
+        },
+        {
+            "m_Name": "Hill | Swanville",
+            "m_Position": [
+                5289.25,
+                0.0,
+                12384.2197265625
+            ]
+        },
+        {
+            "m_Name": "Loca | KMUC",
+            "m_Position": [
+                7226.10986328125,
+                0.0,
+                11625.58984375
+            ]
+        },
+        {
+            "m_Name": "Loca | Mine",
+            "m_Position": [
+                11148.4599609375,
+                0.0,
+                2273.530029296875
+            ]
+        },
+        {
+            "m_Name": "Local | Swamp",
+            "m_Position": [
+                3801.860107421875,
+                0.0,
+                9049.3203125
+            ]
+        },
+        {
+            "m_Name": "RockArea | Devils Eye",
+            "m_Position": [
+                6654.22998046875,
+                0.0,
+                3472.0
+            ]
+        },
+        {
+            "m_Name": "StrongpointArea | Camp Bear",
+            "m_Position": [
+                8865.9296875,
+                0.0,
+                5988.39990234375
+            ]
+        },
+        {
+            "m_Name": "StrongpointArea | Camp Eagle",
+            "m_Position": [
+                8778.01953125,
+                0.0,
+                3733.2900390625
+            ]
+        },
+        {
+            "m_Name": "StrongpointArea | Camp Wolf",
+            "m_Position": [
+                5478.759765625,
+                0.0,
+                1056.6300048828126
+            ]
+        },
+        {
+            "m_Name": "StrongpointArea | Deepwater",
+            "m_Position": [
+                1668.18994140625,
+                0.0,
+                12694.2001953125
+            ]
+        },
+        {
+            "m_Name": "StrongpointArea | Horizon",
+            "m_Position": [
+                4139.5,
+                0.0,
+                15461.2998046875
+            ]
+        },
+        {
+            "m_Name": "StrongpointArea | Paris Island",
+            "m_Position": [
+                2880.639892578125,
+                0.0,
+                3903.840087890625
+            ]
+        },
+        {
+            "m_Name": "StrongpointArea | Rogue Wave",
+            "m_Position": [
+                2144.840087890625,
+                0.0,
+                14620.2900390625
+            ]
+        },
+        {
+            "m_Name": "ViewPoint | Starks Castle",
+            "m_Position": [
+                5771.419921875,
+                0.0,
+                2372.25
+            ]
+        },
+        {
+            "m_Name": "Vill | Milo",
+            "m_Position": [
+                6545.97998046875,
+                0.0,
+                3922.5400390625
+            ]
+        },
+        {
+            "m_Name": "Villag | Duskar",
+            "m_Position": [
+                7841.8798828125,
+                0.0,
+                8061.18017578125
+            ]
+        },
+        {
+            "m_Name": "Center Of The Earth",
+            "m_Position": [
+                7577.419921875,
+                101.4530029296875,
+                10020.099609375
+            ]
+        },
+        {
+            "m_Name": "Journy to the T-Rex mouth",
+            "m_Position": [
+                5208.771484375,
+                4.391808986663818,
+                10768.3916015625
+            ]
+        },
+        {
+            "m_Name": "Mafia Island",
+            "m_Position": [
+                3728.634765625,
+                7.991782188415527,
+                11625.83203125
+            ]
+        },
+        {
+            "m_Name": "Swallow Island",
+            "m_Position": [
+                1249.8199462890626,
+                60.0,
+                4811.18017578125
+            ]
+        }
+    ]
+}

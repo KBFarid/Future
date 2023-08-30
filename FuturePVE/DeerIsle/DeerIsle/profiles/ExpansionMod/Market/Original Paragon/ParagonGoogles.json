@@ -1,0 +1,56 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Googles",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "Paragon_BGoggles_Pink",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_BGoggles_Black",
+        "Paragon_BGoggles_Blue",
+        "Paragon_BGoggles_Red",
+        "Paragon_DGoggles_Pink"
+      ]
+    },
+    {
+      "ClassName": "Paragon_DGoggles_Pink",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_DGoggles_Black",
+        "Paragon_DGoggles_Blue",
+        "Paragon_DGoggles_Red"
+      ]
+    },
+    {
+      "ClassName": "Paragon_GGoggles_Pink",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_GGoggles_Black",
+        "Paragon_GGoggles_Blue",
+        "Paragon_GGoggles_Red"
+      ]
+    }
+  ]
+}

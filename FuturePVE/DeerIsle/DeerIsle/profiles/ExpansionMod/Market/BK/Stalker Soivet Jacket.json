@@ -1,0 +1,23 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Soivet_Jacket",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+    {
+        "ClassName": "FS_Soivet_Jacket",
+        "MaxPriceThreshold": 5000,
+        "MinPriceThreshold": 5000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+          "FS_Soivet_JacketHood"
+		]
+    }
+  ]
+}  

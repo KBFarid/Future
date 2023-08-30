@@ -1,0 +1,112 @@
+{
+    "m_Version": 12,
+    "DisplayName": "MILITARY_GLOVES",
+    "Icon": "Deliver",
+    "Color": "6AA84F",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": 
+	[  
+		{
+            "ClassName": "tacticalgloves_black",
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "tacticalgloves_beige",
+                "tacticalgloves_green",
+                "expansiontacticalglovesdesert"
+            ]
+        },
+        {
+            "ClassName": "omnogloves_gray",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "omnogloves_brown"
+            ]
+        },
+        {
+            "ClassName": "nbcglovesgray",
+            "MaxPriceThreshold": 1600,
+            "MinPriceThreshold": 1600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "nbcglovesyellow"
+            ]
+        },
+        {
+            "ClassName": "nbcglovesyellow",
+            "MaxPriceThreshold": 1300,
+            "MinPriceThreshold": 1300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "woolgloves_green",
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "woolgloves_black",
+                "woolgloves_tan",
+                "woolgloves_white"
+            ]
+        },
+        {
+            "ClassName": "woolglovesfingerless_green",
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "woolglovesfingerless_black",
+                "woolglovesfingerless_tan"
+            ]
+        },
+	{
+      "ClassName": "Paragon_TacticalGloves_Black",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_TacticalGloves_Black_WL",
+        "Paragon_TacticalGloves_White",
+        "Paragon_TacticalGloves_WL",
+        "Paragon_TacticalGloves_Fatigue",
+        "Paragon_TacticalGloves_Blue",
+        "Paragon_TacticalGloves_Desert",
+        "Paragon_TacticalGloves_Green",
+        "Paragon_TacticalGloves_Navy"
+      ]
+    }
+  ]
+}

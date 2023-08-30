@@ -1,0 +1,109 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Nissan Skyline R34 GTR Parts",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "SkylineBNR34_koleso",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SkylineBNR34_dver_1_1",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SkylineBNR34_dver_2_1",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SkylineBNR34_kapot",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SkylineBNR34_bagazhnik",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SkylineBNR34_dver_1_1_Blue",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SkylineBNR34_dver_2_1_Blue",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SkylineBNR34_kapot_Blue",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SkylineBNR34_bagazhnik_Blue",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

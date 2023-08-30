@@ -1,0 +1,22 @@
+{
+  "m_Version": 11,
+  "DisplayName": "#STR_EXPANSION_MARKET_TRADER_MEDICALS",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 0,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Medic Box",
+  "Currencies": [
+    "expansionbanknoteeuro"
+  ],
+  "Categories": [
+    "FS Medical Kits",
+	"Medical",
+	"Syberia_Project_Ampoules",
+	"Syberia_Project_Injectors",
+	"Syberia_Project_MedicalItems",
+	"Syberia_Project_Tablets",
+	"HM_Medical_Items"
+  ],
+  "Items": {}
+}

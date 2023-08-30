@@ -1,0 +1,153 @@
+{
+    "m_Version": 12,
+    "DisplayName": "BMW M8 Parts",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "M8F92Comp_koleso",
+            "MaxPriceThreshold": 100000.0,
+            "MinPriceThreshold": 100000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "M8F92Comp_dver_1_1",
+            "MaxPriceThreshold": 100000.0,
+            "MinPriceThreshold": 100000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "M8F92Comp_dver_2_1",
+            "MaxPriceThreshold": 100000.0,
+            "MinPriceThreshold": 100000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "M8F92Comp_kapot",
+            "MaxPriceThreshold": 100000.0,
+            "MinPriceThreshold": 100000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "M8F92Comp_bagazhnik",
+            "MaxPriceThreshold": 100000.0,
+            "MinPriceThreshold": 100000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "M8F92Comp_dver_1_1_Black",
+            "MaxPriceThreshold": 100000.0,
+            "MinPriceThreshold": 100000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "M8F92Comp_dver_2_1_Black",
+            "MaxPriceThreshold": 100000.0,
+            "MinPriceThreshold": 100000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "M8F92Comp_kapot_Black",
+            "MaxPriceThreshold": 100000.0,
+            "MinPriceThreshold": 100000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "M8F92Comp_bagazhnik_Black",
+            "MaxPriceThreshold": 100000.0,
+            "MinPriceThreshold": 100000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "M8F92Comp_dver_1_1_Blue",
+            "MaxPriceThreshold": 100000.0,
+            "MinPriceThreshold": 100000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "M8F92Comp_dver_2_1_Blue",
+            "MaxPriceThreshold": 100000.0,
+            "MinPriceThreshold": 100000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "M8F92Comp_kapot_Blue",
+            "MaxPriceThreshold": 100000.0,
+            "MinPriceThreshold": 100000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "M8F92Comp_bagazhnik_Blue",
+            "MaxPriceThreshold": 100000.0,
+            "MinPriceThreshold": 100000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

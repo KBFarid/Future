@@ -1,0 +1,164 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Armbands",
+  "Icon": "Deliver",
+  "Color": "FFC000",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "armband_white",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 15,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "armband_yellow",
+        "armband_orange",
+        "armband_red",
+        "armband_green",
+        "armband_pink",
+        "armband_blue"
+      ]
+    },
+    {
+      "ClassName": "armband_black",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 15,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "armband_apa",
+        "armband_altis"
+      ]
+    },
+    {
+      "ClassName": "armband_babydeer",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 15,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "armband_bear",
+        "armband_bohemia",
+        "armband_brainz",
+        "armband_cdf",
+        "armband_chel"
+      ]
+    },
+    {
+      "ClassName": "armband_cmc",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 15,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "armband_cannibals",
+        "armband_chedaki"
+      ]
+    },
+    {
+      "ClassName": "armband_dayz",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 15,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "armband_chernarus",
+        "armband_hunterz",
+        "armband_livonia",
+        "armband_livoniaarmy",
+        "armband_livoniapolice"
+      ]
+    },
+    {
+      "ClassName": "armband_napa",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 15,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "armband_nsahrani",
+        "armband_pirates",
+        "armband_rsta"
+      ]
+    },
+    {
+      "ClassName": "armband_refuge",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 15,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "armband_rooster",
+        "armband_ssahrani",
+        "armband_snake",
+        "armband_wolf",
+        "armband_zenit"
+      ]
+    },
+	{
+      "ClassName": "fs_tag_army",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fs_tag_army_1",
+        "fs_tag_army_10_podpolkov",
+        "fs_tag_army_11_polkov",
+        "fs_tag_army_12_generalmaer",
+        "fs_tag_army_13_generalletex",
+        "fs_tag_army_14_generalpolk",
+        "fs_tag_army_2",
+        "fs_tag_army_3",
+        "fs_tag_army_4",
+		"fs_tag_army_5_starsina",
+		"fs_tag_army_6_letexa",
+		"fs_tag_army_7_starletexa",
+		"fs_tag_army_8_kapitan",
+		"fs_tag_army_9_maer",
+		"fs_tag_army_medic",
+		"fs_tag_bandit",
+		"fs_tag_blackangel",
+		"fs_tag_cherepgroup",
+		"fs_tag_clearsky",
+		"fs_tag_dolg",
+		"fs_tag_dolg_kanon",
+		"fs_tag_monolit",
+		"fs_tag_monolit_kanon",
+		"fs_tag_naem",
+		"fs_tag_nauka",
+		"fs_tag_odin",
+		"fs_tag_renegati",
+		"fs_tag_svoboda",
+		"fs_tag_temnie"
+        
+      ]
+    }
+  ]
+}

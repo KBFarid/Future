@@ -1,0 +1,65 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Mercedes G63 AMG",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "MercedesG63AMG",
+            "MaxPriceThreshold": 3000000.0,
+            "MinPriceThreshold": 3000000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MercedesG63AMG_Black",
+            "MaxPriceThreshold": 3000000.0,
+            "MinPriceThreshold": 3000000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MercedesG63AMG_MatteBlack",
+            "MaxPriceThreshold": 3000000.0,
+            "MinPriceThreshold": 3000000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MercedesG63AMG_White",
+            "MaxPriceThreshold": 3000000.0,
+            "MinPriceThreshold": 3000000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MercedesG63AMG_WhiteCamo",
+            "MaxPriceThreshold": 3000000.0,
+            "MinPriceThreshold": 3000000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

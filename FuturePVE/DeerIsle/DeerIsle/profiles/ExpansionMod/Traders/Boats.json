@@ -1,0 +1,16 @@
+{
+  "m_Version": 11,
+  "DisplayName": "Boats Trader",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 0,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Car",
+  "Currencies": [
+    "expansionbanknoteeuro"
+  ],
+  "Categories": [
+    "(BoatTrader)RFF_Boats"
+  ],
+  "Items": {}
+}

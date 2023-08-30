@@ -1,0 +1,31 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Patches",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "Paragon_Patch_USA",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Patch_Austria",
+        "Paragon_Patch_Britain",
+        "Paragon_Patch_France",
+        "Paragon_Patch_Germany",
+        "Paragon_Patch_Israel",
+        "Paragon_Patch_Russian",
+        "Paragon_Patch_Ukraine",
+        "Paragon_Patch_Canada",
+        "Paragon_Patch_Poland"
+      ]
+    }
+  ]
+}

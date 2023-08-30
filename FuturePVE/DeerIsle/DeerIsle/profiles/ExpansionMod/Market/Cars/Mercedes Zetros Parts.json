@@ -1,0 +1,164 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Mercedes Zetros Parts",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "MercedesZetros_Driver",
+            "MaxPriceThreshold": 2000.0,
+            "MinPriceThreshold": 2000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MercedesZetros_CoDriver",
+            "MaxPriceThreshold": 2000.0,
+            "MinPriceThreshold": 2000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MercedesZetros_Hood",
+            "MaxPriceThreshold": 2000.0,
+            "MinPriceThreshold": 2000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MercedesZetros_Driver_Desert",
+            "MaxPriceThreshold": 2000.0,
+            "MinPriceThreshold": 2000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MercedesZetros_CoDriver_Desert",
+            "MaxPriceThreshold": 2000.0,
+            "MinPriceThreshold": 2000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MercedesZetros_Hood_Desert",
+            "MaxPriceThreshold": 2000.0,
+            "MinPriceThreshold": 2000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MercedesZetros_FrontWheel",
+            "MaxPriceThreshold": 2000.0,
+            "MinPriceThreshold": 2000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MercedesZetros_RearWheel",
+            "MaxPriceThreshold": 2000.0,
+            "MinPriceThreshold": 2000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MercedesZetros_FrontWheel_Desert",
+            "MaxPriceThreshold": 2000.0,
+            "MinPriceThreshold": 2000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MercedesZetros_RearWheel_Desert",
+            "MaxPriceThreshold": 2000.0,
+            "MinPriceThreshold": 2000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MercedesZetros_Cover",
+            "MaxPriceThreshold": 2000.0,
+            "MinPriceThreshold": 2000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MercedesZetros_OpenCover",
+            "MaxPriceThreshold": 2000.0,
+            "MinPriceThreshold": 2000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MercedesZetros_DesertCover",
+            "MaxPriceThreshold": 2000.0,
+            "MinPriceThreshold": 2000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MercedesZetros_DesertOpenCover",
+            "MaxPriceThreshold": 2000.0,
+            "MinPriceThreshold": 2000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Clothes",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "Paragon_TacJacket_Black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_TacJacket_Desert",
+        "Paragon_TacJacket_Blue",
+        "Paragon_TacJacket_White",
+        "Paragon_TacJacket_Green",
+        "Paragon_TacJacket_Fatigue",
+        "Paragon_TacJacket_Navy",
+        "Paragon_TacJacket_WL"
+      ]
+    },
+    {
+      "ClassName": "Paragon_TacPants_Black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_TacPants_Blue",
+        "Paragon_TacPants_Navy",
+        "Paragon_TacPants_Black_WL",
+        "Paragon_TacPants_Desert",
+        "Paragon_TacPants_Green",
+        "Paragon_TacPants_White",
+        "Paragon_TacPants_WL",
+        "Paragon_TacPants_Fatigue"
+      ]
+    },
+    {
+      "ClassName": "Paragon_CombatPants_Black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_CombatPants_Blue",
+        "Paragon_CombatPants_Black_WL",
+        "Paragon_CombatPants_Navy",
+        "Paragon_CombatPants_Fatigue",
+        "Paragon_CombatPants_Desert",
+        "Paragon_CombatPants_Green",
+        "Paragon_CombatPants_White",
+        "Paragon_CombatPants_Camo"
+      ]
+    },
+    {
+      "ClassName": "Paragon_TacBoots_Black",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 7000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_TacBoots_Desert",
+        "Paragon_TacBoots_Green",
+        "Paragon_TacBoots_Blue",
+        "Paragon_TacBoots_Fatigue",
+        "Paragon_TacBoots_Navy",
+        "Paragon_TacBoots_WL",
+        "Paragon_TacBoots_Black_WL"
+      ]
+    }
+  ]
+}

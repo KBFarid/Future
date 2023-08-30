@@ -1,0 +1,87 @@
+{
+    "m_Version": 12,
+    "DisplayName": "4x4 Raptor",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "RAPTOR",
+            "MaxPriceThreshold": 900000.0,
+            "MinPriceThreshold": 900000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RAPTOR_grey",
+            "MaxPriceThreshold": 900000.0,
+            "MinPriceThreshold": 900000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RAPTOR_red",
+            "MaxPriceThreshold": 900000.0,
+            "MinPriceThreshold": 900000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RAPTOR_blue",
+            "MaxPriceThreshold": 900000.0,
+            "MinPriceThreshold": 900000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RAPTOR_pink",
+            "MaxPriceThreshold": 900000.0,
+            "MinPriceThreshold": 900000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RAPTOR_winter",
+            "MaxPriceThreshold": 900000.0,
+            "MinPriceThreshold": 900000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RAPTOR_green",
+            "MaxPriceThreshold": 900000.0,
+            "MinPriceThreshold": 900000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

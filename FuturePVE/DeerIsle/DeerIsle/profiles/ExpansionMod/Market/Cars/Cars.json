@@ -1,0 +1,776 @@
+{
+  "m_Version": 12,
+  "DisplayName": "4x4 Raptor",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "RAPTOR",
+      "MaxPriceThreshold": 900000,
+      "MinPriceThreshold": 900000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "RAPTOR_grey",
+        "RAPTOR_red",
+        "RAPTOR_blue",
+        "RAPTOR_pink",
+        "RAPTOR_winter",
+        "RAPTOR_green"
+      ]
+    },
+    {
+      "ClassName": "AudiRS6",
+      "MaxPriceThreshold": 3300000,
+      "MinPriceThreshold": 3300000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "AudiRS6_Blue",
+        "AudiRS6_Black",
+        "AudiRS6_White",
+        "AudiRS6_Green",
+        "AudiRS6_ChromePurple",
+        "AudiRS6_Orange",
+        "AudiRS6_Gray"
+      ]
+    },
+    {
+      "ClassName": "AudiRS7Sportback",
+      "MaxPriceThreshold": 3400000,
+      "MinPriceThreshold": 3400000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "AudiRS7Sportback_Black",
+        "AudiRS7Sportback_Blue",
+        "AudiRS7Sportback_Grey",
+        "AudiRS7Sportback_White",
+        "AudiRS7Sportback_Chrome"
+      ]
+    },
+    {
+      "ClassName": "BentleyMullinerBacalar",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BentleyMullinerBacalar_Black",
+        "BentleyMullinerBacalar_Blue",
+        "BentleyMullinerBacalar_Chrome",
+        "BentleyMullinerBacalar_DarkRed",
+        "BentleyMullinerBacalar_Green",
+        "BentleyMullinerBacalar_OrangeFlame",
+        "BentleyMullinerBacalar_White"
+      ]
+    },
+    {
+      "ClassName": "CrSk_BMW_525i_E34",
+      "MaxPriceThreshold": 120000,
+      "MinPriceThreshold": 120000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "CrSk_BMW_525i_E34_Black",
+        "CrSk_BMW_525i_E34_Red",
+        "CrSk_BMW_525i_E34_Purple",
+        "CrSk_BMW_525i_E34_Beater"
+      ]
+    },
+    {
+      "ClassName": "CrSk_BMW_X5_E53",
+      "MaxPriceThreshold": 1100000,
+      "MinPriceThreshold": 1100000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "CrSk_BMW_X5_E53_Blue"
+      ]
+    },
+    {
+      "ClassName": "BMWM5CompF9",
+      "MaxPriceThreshold": 3200000,
+      "MinPriceThreshold": 3200000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BMWM5CompF9_Red",
+        "BMWM5CompF9_Yellow",
+        "BMWM5CompF9_Pink",
+        "BMWM5CompF9_Black",
+        "BMWM5CompF9_White",
+        "BMWM5CompF9_Green",
+        "BMWM5CompF9_Purple",
+        "BMWM5CompF9_Orange",
+        "BMWM5CompF9_Grey"
+      ]
+    },
+    {
+      "ClassName": "CrSk_BMW_M8_F92_Com",
+      "MaxPriceThreshold": 5450000,
+      "MinPriceThreshold": 5450000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "CrSk_BMW_M8_F92_Comp_Black",
+        "CrSk_BMW_M8_F92_Comp_Blue"
+      ]
+    },
+    {
+      "ClassName": "ChevroletCorvette",
+      "MaxPriceThreshold": 1200000,
+      "MinPriceThreshold": 1200000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ChevroletCorvette_white",
+        "ChevroletCorvette_rust",
+        "ChevroletCorvette_yellow",
+        "ChevroletCorvette_kamo"
+      ]
+    },
+    {
+      "ClassName": "DodgeChargerSRTHellcat",
+      "MaxPriceThreshold": 2500000,
+      "MinPriceThreshold": 2500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "DodgeChargerSRTHellcat_Black",
+        "DodgeChargerSRTHellcat_Blue",
+        "DodgeChargerSRTHellcat_Lime",
+        "DodgeChargerSRTHellcat_Purple",
+        "DodgeChargerSRTHellcat_Red",
+        "DodgeChargerSRTHellcat_White",
+        "DodgeChargerSRTHellcat_Yellow"
+      ]
+    },
+    {
+      "ClassName": "CrSk_Dune_Buggy",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 55000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FordRaptorTruck",
+      "MaxPriceThreshold": 5000000,
+      "MinPriceThreshold": 5000000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FordRaptorTruck_Black",
+        "FordRaptorTruck_Baja",
+        "FordRaptorTruck_StarsAndStripes"
+      ]
+    },
+    {
+      "ClassName": "FordVelociraptor6x6",
+      "MaxPriceThreshold": 3200000,
+      "MinPriceThreshold": 3200000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FordVelociraptor6x6_ChromeBlue",
+        "FordVelociraptor6x6_Black",
+        "FordVelociraptor6x6_Orange",
+        "FordVelociraptor6x6_Purple"
+      ]
+    },
+    {
+      "ClassName": "FordBroncoXLT80",
+      "MaxPriceThreshold": 250000,
+      "MinPriceThreshold": 250000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FordBroncoXLT80_Black",
+        "FordBroncoXLT80_Blue",
+        "FordBroncoXLT80_Red",
+        "FordBroncoXLT80_Rust"
+      ]
+    },
+    {
+      "ClassName": "HemttBox",
+      "MaxPriceThreshold": 200000,
+      "MinPriceThreshold": 200000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "HemttBox_Desert"
+      ]
+    },
+    {
+      "ClassName": "JeepGladiatorRubicon",
+      "MaxPriceThreshold": 450000,
+      "MinPriceThreshold": 450000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "JeepGladiatorRubicon_Black",
+        "JeepGladiatorRubicon_White",
+        "JeepGladiatorRubicon_Blue",
+        "JeepGladiatorRubicon_Purple"
+      ]
+    },
+    {
+      "ClassName": "Kamaz_4350",
+      "MaxPriceThreshold": 3950000,
+      "MinPriceThreshold": 3950000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Kamaz_4350_flora",
+        "Kamaz_4350_old",
+        "Kamaz_4350_pixel",
+        "Kamaz_4350_black",
+        "Kamaz_4350_winter"
+      ]
+    },
+    {
+      "ClassName": "Kamaz_4350_Kung",
+      "MaxPriceThreshold": 4950000,
+      "MinPriceThreshold": 4950000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Kamaz_4350_Kung_flora",
+        "Kamaz_4350_Kung_old",
+        "Kamaz_4350_Kung_pixel",
+        "Kamaz_4350_Kung_black",
+        "Kamaz_4350_Kung_winter"
+      ]
+    },
+    {
+      "ClassName": "CrSk_Kawasaki_Mule_SX_4x4",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "CrSk_Kawasaki_Mule_SX_4x4_Camo2",
+        "CrSk_Kawasaki_Mule_SX_4x4_Camo3"
+      ]
+    },
+    {
+      "ClassName": "CrSk_Lamborghini_Urus",
+      "MaxPriceThreshold": 8500000,
+      "MinPriceThreshold": 8500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "CrSk_Lamborghini_Urus_Pink",
+        "CrSk_Lamborghini_Urus_Black"
+      ]
+    },
+    {
+      "ClassName": "LancerEvoIX",
+      "MaxPriceThreshold": 2600000,
+      "MinPriceThreshold": 2600000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "LancerEvoIX_Black",
+        "LancerEvoIX_Blue",
+        "LancerEvoIX_Red",
+        "LancerEvoIX_White"
+      ]
+    },
+    {
+      "ClassName": "LandCruiser",
+      "MaxPriceThreshold": 500000,
+      "MinPriceThreshold": 500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "LandCruiser_blue",
+        "LandCruiser_kamo",
+        "LandCruiser_red",
+        "LandCruiser_skul",
+        "LandCruiser_white",
+        "LandCruiser_kamo2"
+      ]
+    },
+    {
+      "ClassName": "LAPV",
+      "MaxPriceThreshold": 650000,
+      "MinPriceThreshold": 650000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "LAPV_MatteBlack",
+        "LAPV_Desert",
+        "LAPV_MatteDesert",
+        "LAPV_Grey",
+        "LAPV_Green",
+        "LAPV_MatteGreen"
+      ]
+    },
+    {
+      "ClassName": "M1114Humvee",
+      "MaxPriceThreshold": 800000,
+      "MinPriceThreshold": 800000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "M1114Humvee_Woodland",
+        "M1114Humvee_Winter",
+        "M1114Humvee_ResidentEvil"
+      ]
+    },
+    {
+      "ClassName": "CrSk_Mazda_RX7_FD3S",
+      "MaxPriceThreshold": 590000,
+      "MinPriceThreshold": 590000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "CrSk_Mazda_RX7_FD3S_Black",
+        "CrSk_Mazda_RX7_FD3S_Red"
+      ]
+    },
+    {
+      "ClassName": "MercedesAMGGT2020",
+      "MaxPriceThreshold": 3200000,
+      "MinPriceThreshold": 3200000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MercedesAMGGT2020_Blue",
+        "MercedesAMGGT2020_White",
+        "MercedesAMGGT2020_Yellow",
+        "MercedesAMGGT2020_Black"
+      ]
+    },
+    {
+      "ClassName": "CrSk_Mercedes_V250d_19",
+      "MaxPriceThreshold": 890000,
+      "MinPriceThreshold": 890000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "CrSk_Mercedes_V250d_19_Black",
+        "CrSk_Mercedes_V250d_19_Grey",
+        "CrSk_Mercedes_V250d_19_White2",
+        "CrSk_Mercedes_V250d_19_Black2"
+      ]
+    },
+    {
+      "ClassName": "MBw140",
+      "MaxPriceThreshold": 205000,
+      "MinPriceThreshold": 205000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MBw140_green",
+        "MBw140_black",
+        "MBw140_blue",
+        "MBw140_white",
+        "MBw140_gold"
+      ]
+    },
+    {
+      "ClassName": "CrSk_Mercedes_G63_AMG_6x6_17",
+      "MaxPriceThreshold": 2800000,
+      "MinPriceThreshold": 2800000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "CrSk_Mercedes_G63_AMG_6x6_17_Black",
+        "CrSk_Mercedes_G63_AMG_6x6_17_Camo",
+        "CrSk_Mercedes_G63_AMG_6x6_17_Camo2"
+      ]
+    },
+    {
+      "ClassName": "MercedesG63AMG",
+      "MaxPriceThreshold": 3000000,
+      "MinPriceThreshold": 3000000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MercedesG63AMG_Black",
+        "MercedesG63AMG_MatteBlack",
+        "MercedesG63AMG_White",
+        "MercedesG63AMG_WhiteCamo"
+      ]
+    },
+    {
+      "ClassName": "MercedesZetros",
+      "MaxPriceThreshold": 120000,
+      "MinPriceThreshold": 120000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MercedesZetros_Desert"
+      ]
+    },
+    {
+      "ClassName": "CrSk_Mitsubishi_Lancer_Evo_X",
+      "MaxPriceThreshold": 1100000,
+      "MinPriceThreshold": 1100000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "CrSk_Mitsubishi_Lancer_Evo_X_White"
+      ]
+    },
+    {
+      "ClassName": "MotorHome",
+      "MaxPriceThreshold": 4250000,
+      "MinPriceThreshold": 4250000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MotorHome_white",
+        "MotorHome_woodland",
+        "MotorHome_black",
+        "MotorHome_rust",
+        "MotorHome_red",
+        "MotorHome_green"
+      ]
+    },
+    {
+      "ClassName": "MRAPCougar",
+      "MaxPriceThreshold": 550000,
+      "MinPriceThreshold": 550000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MRAPCougar_Black",
+        "MRAPCougar_Woodland"
+      ]
+    },
+    {
+      "ClassName": "MRAPPunisher",
+      "MaxPriceThreshold": 550000,
+      "MinPriceThreshold": 550000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MRAPPunisher_Desert",
+        "MRAPPunisher_Red",
+        "MRAPPunisher_Grey",
+        "MRAPPunisher_BlueCamo"
+      ]
+    },
+    {
+      "ClassName": "Nissan350Z",
+      "MaxPriceThreshold": 2100000,
+      "MinPriceThreshold": 2100000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Nissan350Z_Blue",
+        "Nissan350Z_Red",
+        "Nissan350Z_White",
+        "Nissan350Z_NonDecaled",
+        "Nissan350Z_Black"
+      ]
+    },
+    {
+      "ClassName": "NissanGTR2015",
+      "MaxPriceThreshold": 2800000,
+      "MinPriceThreshold": 2800000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NissanGTR2015_Green",
+        "NissanGTR2015_Red",
+        "NissanGTR2015_Black",
+        "NissanGTR2015_White",
+        "NissanGTR2015_Blue"
+      ]
+    },
+    {
+      "ClassName": "CrSk_Nissan_Skyline_GTR_BNR34",
+      "MaxPriceThreshold": 550000,
+      "MinPriceThreshold": 550000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "CrSk_Nissan_Skyline_GTR_BNR34_Blue"
+      ]
+    },
+    {
+      "ClassName": "Porsche911GTRS2018",
+      "MaxPriceThreshold": 3500000,
+      "MinPriceThreshold": 3500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Porsche911GTRS2018_Blue",
+        "Porsche911GTRS2018_Red",
+        "Porsche911GTRS2018_White",
+        "Porsche911GTRS2018_Yellow",
+        "Porsche911GTRS2018_Black"
+      ]
+    },
+    {
+      "ClassName": "LANEvoque2016",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "LANEvoque2016_Blue",
+        "LANEvoque2016_Red",
+        "LANEvoque2016_White",
+        "LANEvoque2016_Gold",
+        "LANEvoque2016_ChromePurple"
+      ]
+    },
+    {
+      "ClassName": "CrSk_Land_Rover_RR_Sport_12",
+      "MaxPriceThreshold": 1200000,
+      "MinPriceThreshold": 1200000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "CrSk_Land_Rover_RR_Sport_12_Black"
+      ]
+    },
+    {
+      "ClassName": "ShelbySuperSnake19",
+      "MaxPriceThreshold": 2400000,
+      "MinPriceThreshold": 2400000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ShelbySuperSnake19_BlackRed",
+        "ShelbySuperSnake19_BlackOrange",
+        "ShelbySuperSnake19_BlackGreen",
+        "ShelbySuperSnake19_GreenBlack",
+        "ShelbySuperSnake19_OrangeBlack",
+        "ShelbySuperSnake19_MaroonSilver",
+        "ShelbySuperSnake19_WhiteBlack"
+      ]
+    },
+    {
+      "ClassName": "SubaruImprezaWRXF4",
+      "MaxPriceThreshold": 2200000,
+      "MinPriceThreshold": 2200000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SubaruImprezaWRXF4_Blue",
+        "SubaruImprezaWRXF4_Black",
+        "SubaruImprezaWRXF4_White",
+        "SubaruImprezaWRXF4_Green",
+        "SubaruImprezaWRXF4_Chrome",
+        "SubaruImprezaWRXF4_Purple"
+      ]
+    },
+    {
+      "ClassName": "ToyotaHilux",
+      "MaxPriceThreshold": 465000,
+      "MinPriceThreshold": 465000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ToyotaHilux_blue",
+        "ToyotaHilux_kamo",
+        "ToyotaHilux_red",
+        "ToyotaHilux_rust",
+        "ToyotaHilux_kamo2",
+        "ToyotaHilux_white"
+      ]
+    },
+    {
+      "ClassName": "CrSk_Typhoon_K_53949",
+      "MaxPriceThreshold": 3350000,
+      "MinPriceThreshold": 3350000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "CrSk_Typhoon_K_53949_khaki",
+        "CrSk_Typhoon_K_53949_Tan",
+        "CrSk_Typhoon_K_53949_Grey"
+      ]
+    },
+    {
+      "ClassName": "UAZ469_offroad",
+      "MaxPriceThreshold": 165000,
+      "MinPriceThreshold": 165000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "UAZ469_offroad_Blue",
+        "UAZ469_offroad_Yellow",
+        "UAZ469_offroad_Red"
+      ]
+    },
+    {
+      "ClassName": "VWGolfGTI",
+      "MaxPriceThreshold": 2200000,
+      "MinPriceThreshold": 2200000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "VWGolfGTI_Black",
+        "VWGolfGTI_Gold",
+        "VWGolfGTI_Red",
+        "VWGolfGTI_Purple"
+      ]
+    },
+    {
+      "ClassName": "WarthogM12S",
+      "MaxPriceThreshold": 350000,
+      "MinPriceThreshold": 350000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "WarthogM12S_Blue",
+        "WarthogM12S_Black",
+        "WarthogM12S_Red"
+      ]
+    }
+  ]
+}

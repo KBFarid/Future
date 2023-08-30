@@ -1,0 +1,65 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Lancer Evo",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "LancerEvoIX",
+            "MaxPriceThreshold": 2600000.0,
+            "MinPriceThreshold": 2600000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LancerEvoIX_Black",
+            "MaxPriceThreshold": 2600000.0,
+            "MinPriceThreshold": 2600000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LancerEvoIX_Blue",
+            "MaxPriceThreshold": 2600000.0,
+            "MinPriceThreshold": 2600000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LancerEvoIX_Red",
+            "MaxPriceThreshold": 2600000.0,
+            "MinPriceThreshold": 2600000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LancerEvoIX_White",
+            "MaxPriceThreshold": 2600000.0,
+            "MinPriceThreshold": 2600000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

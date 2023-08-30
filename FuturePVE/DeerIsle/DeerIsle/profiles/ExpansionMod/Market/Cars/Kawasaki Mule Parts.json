@@ -1,0 +1,76 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Kawasaki Mule Parts",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "KawasakiMule_Koleso",
+            "MaxPriceThreshold": 500.0,
+            "MinPriceThreshold": 500.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "KawasakiMule_dver_1_1",
+            "MaxPriceThreshold": 500.0,
+            "MinPriceThreshold": 500.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "KawasakiMule_dver_2_1",
+            "MaxPriceThreshold": 500.0,
+            "MinPriceThreshold": 500.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "KawasakiMule_bagazhnik",
+            "MaxPriceThreshold": 500.0,
+            "MinPriceThreshold": 500.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "KawasakiMule_bagazhnik_Camo2",
+            "MaxPriceThreshold": 500.0,
+            "MinPriceThreshold": 500.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "KawasakiMule_bagazhnik_Camo3",
+            "MaxPriceThreshold": 500.0,
+            "MinPriceThreshold": 500.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

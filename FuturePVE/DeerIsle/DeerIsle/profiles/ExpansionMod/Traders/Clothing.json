@@ -1,0 +1,35 @@
+{
+  "m_Version": 13,
+  "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 0,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Backpack",
+  "Currencies": [
+    "expansionbanknoteeuro"
+  ],
+  "Categories": [
+
+	  "HM_Army_Items",
+	  "Vanila_Vests",
+	  "Vanila_Sweaters_And_Hoodies",
+	  "Vanila_Skirts_And_Dresses",
+	  "Vanila_Shirts_And_TShirts",
+	  "Vanila_Pants_And_Shorts",
+	  "Vanila_Masks",
+	  "Vanila_Holsters_And_Pouches",
+	  "Vanila_Helmets",
+	  "Vanila_Hats_And_Hoods",
+	  "Vanila_Gloves",
+	  "Vanila_Coats_And_Jackets",
+	  "Vanila_Caps",
+	  "Vanila_Blouses_And_Suits",
+	  "Vanila_Bandanas",
+	  "Vanila_Backpacks",
+	  "Vanila_Eyewear",
+	  "Armbands"
+
+  ],
+  "Items": {}
+}

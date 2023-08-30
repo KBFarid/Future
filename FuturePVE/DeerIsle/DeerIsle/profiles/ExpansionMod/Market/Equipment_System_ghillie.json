@@ -1,0 +1,25 @@
+{
+	
+    "m_Version": 12,
+    "DisplayName": "Equipment System Ghillie",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 5.0,
+    "Items": [
+		{
+            "ClassName": "IMP_ViperGhillie_Flecktarn",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_ViperGhillie_Arctic",
+                "IMP_ViperGhillie_Multicam"	
+            ]
+        }
+    ]
+}

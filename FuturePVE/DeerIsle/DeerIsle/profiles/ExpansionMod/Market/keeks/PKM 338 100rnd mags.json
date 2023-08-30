@@ -1,0 +1,186 @@
+{
+    "m_Version": 12,
+    "DisplayName": "PKM 338 100rnd mags",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "Keeks_Mag_PKM_Jessica_100rnd",
+            "MaxPriceThreshold": 15.0,
+            "MinPriceThreshold": 15.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Keeks_Mag_PKM_Blue_100rnd",
+            "MaxPriceThreshold": 15.0,
+            "MinPriceThreshold": 15.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Keeks_Mag_PKM_Stars_100rnd",
+            "MaxPriceThreshold": 15.0,
+            "MinPriceThreshold": 15.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Keeks_Mag_PKM_W40k_100rnd",
+            "MaxPriceThreshold": 15.0,
+            "MinPriceThreshold": 15.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Keeks_Mag_PKM_Stain_100rnd",
+            "MaxPriceThreshold": 15.0,
+            "MinPriceThreshold": 15.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Keeks_Mag_PKM_Itch_100rnd",
+            "MaxPriceThreshold": 15.0,
+            "MinPriceThreshold": 15.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Keeks_Mag_PKM_Cartoon_100rnd",
+            "MaxPriceThreshold": 15.0,
+            "MinPriceThreshold": 15.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Keeks_Mag_PKM_BornInFire_100rnd",
+            "MaxPriceThreshold": 15.0,
+            "MinPriceThreshold": 15.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Keeks_Mag_PKM_haruku_100rnd",
+            "MaxPriceThreshold": 15.0,
+            "MinPriceThreshold": 15.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Keeks_Mag_PKM_SmilePurple_100rnd",
+            "MaxPriceThreshold": 15.0,
+            "MinPriceThreshold": 15.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Keeks_Mag_PKM_SmileRed_100rnd",
+            "MaxPriceThreshold": 15.0,
+            "MinPriceThreshold": 15.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Keeks_Mag_PKM_SmileGreen_100rnd",
+            "MaxPriceThreshold": 15.0,
+            "MinPriceThreshold": 15.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Keeks_Mag_PKM_SkullPurple_100rnd",
+            "MaxPriceThreshold": 15.0,
+            "MinPriceThreshold": 15.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Keeks_Mag_PKM_SkullRed_100rnd",
+            "MaxPriceThreshold": 15.0,
+            "MinPriceThreshold": 15.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Keeks_Mag_PKM_SkullGreen_100rnd",
+            "MaxPriceThreshold": 15.0,
+            "MinPriceThreshold": 15.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Keeks_Mag_PKM_Retro_100rnd",
+            "MaxPriceThreshold": 15.0,
+            "MinPriceThreshold": 15.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

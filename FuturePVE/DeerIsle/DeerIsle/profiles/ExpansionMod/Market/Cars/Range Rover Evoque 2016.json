@@ -1,0 +1,76 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Range Rover Evoque 2016",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "LANEvoque2016",
+            "MaxPriceThreshold": 2000000.0,
+            "MinPriceThreshold": 2000000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LANEvoque2016_Blue",
+            "MaxPriceThreshold": 2000000.0,
+            "MinPriceThreshold": 2000000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LANEvoque2016_Red",
+            "MaxPriceThreshold": 2000000.0,
+            "MinPriceThreshold": 2000000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LANEvoque2016_White",
+            "MaxPriceThreshold": 2000000.0,
+            "MinPriceThreshold": 2000000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LANEvoque2016_Gold",
+            "MaxPriceThreshold": 2000000.0,
+            "MinPriceThreshold": 2000000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LANEvoque2016_ChromePurple",
+            "MaxPriceThreshold": 2000000.0,
+            "MinPriceThreshold": 2000000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

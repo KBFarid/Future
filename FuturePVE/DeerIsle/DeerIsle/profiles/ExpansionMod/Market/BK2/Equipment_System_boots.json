@@ -1,0 +1,49 @@
+{
+	
+    "m_Version": 12,
+    "DisplayName": "Equipment System Boots",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 5.0,
+    "Items": [
+		{
+            "ClassName": "IMP_Boots_Lowa_Black",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Boots_Lowa_Green",
+                "IMP_Boots_Lowa_Tan",
+                "IMP_Boots_Lowa_UCP",
+                "IMP_Boots_Lowa_EMR",
+                "IMP_Boots_Lowa_NWU",
+                "IMP_Boots_Lowa_MARPAT"					
+            ]
+        },
+		{
+            "ClassName": "IMP_Boots_Sneakers_Black",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 330,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Boots_Sneakers_Red",
+                "IMP_Boots_Sneakers_Blue",
+                "IMP_Boots_Sneakers_Pink",
+                "IMP_Boots_Sneakers_White",
+                "IMP_Boots_Sneakers_UCP",				
+                "IMP_Boots_Sneakers_EMR",
+                "IMP_Boots_Sneakers_NWU",
+                "IMP_Boots_Sneakers_MARPAT"					
+            ]
+        }
+    ]
+}

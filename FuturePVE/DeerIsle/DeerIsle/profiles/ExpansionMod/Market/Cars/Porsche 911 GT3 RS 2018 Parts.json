@@ -1,0 +1,241 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Porsche 911 GT3 RS 2018 Parts",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "Porsche911GTRS2018_Driver",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Porsche911GTRS2018_Driver_Blue",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Porsche911GTRS2018_Driver_Red",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Porsche911GTRS2018_Driver_White",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Porsche911GTRS2018_Driver_Black",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Porsche911GTRS2018_Driver_Yellow",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Porsche911GTRS2018_CoDriver",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Porsche911GTRS2018_CoDriver_Blue",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Porsche911GTRS2018_CoDriver_Red",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Porsche911GTRS2018_CoDriver_White",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Porsche911GTRS2018_CoDriver_Black",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Porsche911GTRS2018_CoDriver_Yellow",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Porsche911GTRS2018_Trunk",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Porsche911GTRS2018_Trunk_Blue",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Porsche911GTRS2018_Trunk_Red",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Porsche911GTRS2018_Trunk_White",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Porsche911GTRS2018_Trunk_Black",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Porsche911GTRS2018_Trunk_Yellow",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Porsche911GTRS2018_Wheel",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Porsche911GTRS2018_Wheel_White",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Porsche911GTRS2018_Wheel_Gold",
+            "MaxPriceThreshold": 250.0,
+            "MinPriceThreshold": 250.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

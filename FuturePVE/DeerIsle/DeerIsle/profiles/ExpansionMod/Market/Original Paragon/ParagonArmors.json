@@ -1,0 +1,212 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Armors",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "Paragon_6B43_Black_WL",
+      "MaxPriceThreshold": 70000,
+      "MinPriceThreshold": 70000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_6B43_Digital_Flora",
+		"Paragon_6B43_Flora",
+        "Paragon_6B43_White",
+        "Paragon_6B43_Digital_Desert",
+        "Paragon_6B43_Black",
+        "Paragon_6B43_Fatigue",
+        "Paragon_6B43_Blue",
+        "Paragon_6B43_Navy",
+        "Paragon_6B43_Desert",
+        "Paragon_6B43_Black_WL",
+        "Paragon_6B43_WL"
+      ]
+    },
+    {
+      "ClassName": "Paragon_TacticalVest_Black",
+      "MaxPriceThreshold": 65000,
+      "MinPriceThreshold": 65000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_TacticalVest_Blue",
+        "Paragon_TacticalVest_White",
+        "Paragon_TacticalVest_Desert",
+        "Paragon_TacticalVest_Green",
+        "Paragon_TacticalVest_Fatigue",
+        "Paragon_TacticalVest_Navy",
+        "Paragon_TacticalVest_Black_WL",
+		"Paragon_TacticalVest_WL"
+      ]
+    },
+    {
+      "ClassName": "Paragon_Slick_Black",
+      "MaxPriceThreshold": 65000,
+      "MinPriceThreshold": 65000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Slick_Blue",
+        "Paragon_Slick_Desert",
+        "Paragon_Slick_Green",
+        "Paragon_Slick_Fatigue",
+        "Paragon_Slick_Navy",
+        "Paragon_Slick_Black_WL",
+        "Paragon_Slick_WL"
+      ]
+    },
+    {
+      "ClassName": "Paragon_IOTV_Black",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_IOTV_Blue",
+        "Paragon_IOTV_Desert",
+        "Paragon_IOTV_Green",
+        "Paragon_IOTV_White",
+        "Paragon_IOTV_Fatigue",
+        "Paragon_IOTV_Black_WL",
+        "Paragon_IOTV_WL"
+      ]
+    },
+    {
+      "ClassName": "Paragon_DCS_Black",
+      "MaxPriceThreshold": 40000,
+      "MinPriceThreshold": 40000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_DCS_Blue",
+        "Paragon_DCS_Desert",
+        "Paragon_DCS_Green",
+        "Paragon_DCS_Fatigue",
+        "Paragon_DCS_Navy",
+        "Paragon_DCS_Black_WL",
+        "Paragon_DCS_WL"
+      ]
+    },
+    {
+      "ClassName": "Paragon_Soviet_Black",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Soviet_Desert",
+        "Paragon_Soviet_Green",
+        "Paragon_Soviet_Blue",
+        "Paragon_Soviet_White",
+        "Paragon_Soviet_Fatigue",
+        "Paragon_Soviet_Navy",
+        "Paragon_Soviet_Black_WL",
+        "Paragon_Soviet_WL"
+      ]
+    },
+    {
+      "ClassName": "Paragon_TacTec_Black",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_TacTec_Blue",
+        "Paragon_TacTec_Desert",
+        "Paragon_TacTec_White",
+        "Paragon_TacTec_Green",
+        "Paragon_TacTec_Fatigue",
+        "Paragon_TacTec_Navy",
+        "Paragon_TacTec_Black_WL",
+        "Paragon_TacTec_WL"
+      ]
+    },
+    {
+      "ClassName": "Paragon_DCS_L_Black",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_DCS_L_Blue",
+        "Paragon_DCS_L_Desert",
+        "Paragon_DCS_L_Green",
+        "Paragon_DCS_L_White",
+        "Paragon_DCS_L_Fatigue",
+        "Paragon_DCS_L_Navy",
+        "Paragon_DCS_L_Black_WL",
+        "Paragon_DCS_L_WL"
+      ]
+    },
+    {
+      "ClassName": "Paragon_JPC_Black",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_JPC_Blue",
+        "Paragon_JPC_Desert",
+        "Paragon_JPC_White",
+        "Paragon_JPC_Green",
+        "Paragon_JPC_Fatigue",
+        "Paragon_JPC_Navy",
+        "Paragon_JPC_Black_WL",
+        "Paragon_JPC_WL"
+      ]
+    },
+    {
+      "ClassName": "Paragon_C6B43_Flora",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_C6B43_Digital_Flora",
+        "Paragon_C6B43_WL",
+        "Paragon_C6B43_Black_WL",
+        "Paragon_C6B43_White",
+        "Paragon_C6B43_Navy",
+        "Paragon_C6B43_Digital_Desert",
+        "Paragon_C6B43_Desert",
+        "Paragon_C6B43_Black",
+        "Paragon_C6B43_Fatigue",
+        "Paragon_C6B43_Blue"
+      ]
+    }
+  ]
+}

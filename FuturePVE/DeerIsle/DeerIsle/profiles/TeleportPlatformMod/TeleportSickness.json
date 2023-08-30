@@ -1,0 +1,14 @@
+{
+    "TeleSickness": [
+        {
+            "enableSicknessTeleport": 1,
+            "enableShock": 1,
+            "shockChance": 80,
+            "shockDeal": 50,
+            "enableVomit": 1,
+            "vomitChance": 20,
+            "waterVomit": 300,
+            "foodVomit": 300
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+	
+    "m_Version": 12,
+    "DisplayName": "Equipment System NVG, Mandible, HPounch, Visor, Sling, Bottle, Patch",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 5.0,
+    "Items": [
+		{
+            "ClassName": "IMP_NVG_GPNVG_18_Black",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_NVG_GPNVG_18_Green",
+                "IMP_NVG_GPNVG_18_Tan"				
+            ]
+        },
+		{
+            "ClassName": "IMP_NVG_N15",
+            "MaxPriceThreshold": 750,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [					
+            ]
+        },
+		{
+            "ClassName": "IMP_Mandible_Flecktarn",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Mandible_Green",
+                "IMP_Mandible_Grey",
+                "IMP_Mandible_Multicam",
+                "IMP_Mandible_Tan",
+                "IMP_Mandible_Urban",				
+                "IMP_Mandible_WD",
+                "IMP_Mandible_UCP",				
+                "IMP_Mandible_NWU",
+                "IMP_Mandible_EMR",
+                "IMP_Mandible_MARPAT"					
+            ]
+        },
+		{
+            "ClassName": "IMP_HPouch_Flecktarn",
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_HPouch_Green",
+                "IMP_HPouch_Grey",
+                "IMP_HPouch_Multicam",
+                "IMP_HPouch_Tan",
+                "IMP_HPouch_Urban",				
+                "IMP_HPouch_WD",
+                "IMP_HPouch_UCP",				
+                "IMP_HPouch_NWU",
+                "IMP_HPouch_EMR",
+                "IMP_HPouch_MARPAT"					
+            ]
+        },
+		{
+            "ClassName": "IMP_Visor_Black",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Visor_Green",
+                "IMP_Visor_Tan",
+                "IMP_Visor_UCP",				
+                "IMP_Visor_NWU",
+                "IMP_Visor_EMR",
+                "IMP_Visor_MARPAT"					
+            ]
+        },
+		{
+            "ClassName": "IMP_Sling_Back",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 120,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Sling_Front"				
+            ]
+        },
+		{
+            "ClassName": "IMP_Bottle_BottlePouch_Black",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Bottle_BottlePouch_Green",
+                "IMP_Bottle_BottlePouch_Desert",
+                "IMP_Bottle_BottlePouch_UCP",				
+                "IMP_Bottle_BottlePouch_NWU",
+                "IMP_Bottle_BottlePouch_EMR",
+                "IMP_Bottle_BottlePouch_MARPAT"			
+            ]
+        },
+		{
+            "ClassName": "IMP_Patch_Big_RuArmy",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Patch_Small_Flag_RU",
+                "IMP_Patch_Small_Admiral",
+                "IMP_Patch_Small_AKHMAT",				
+                "IMP_Patch_Small_ALPHA",
+                "IMP_Patch_Small_ANTITERROR",
+				"IMP_Patch_Small_Captain",
+                "IMP_Patch_Small_Clown",
+                "IMP_Patch_Small_CombatMedic",				
+                "IMP_Patch_Small_Cpl",
+                "IMP_Patch_Small_FSBALPHA",
+                "IMP_Patch_Small_FSB",				
+                "IMP_Patch_Small_General",
+                "IMP_Patch_Small_GRU",
+                "IMP_Patch_Small_Gunner",
+                "IMP_Patch_Small_HASkull",
+                "IMP_Patch_Small_Hero",
+                "IMP_Patch_Small_LAGOON",				
+                "IMP_Patch_Small_Lieutenant",
+                "IMP_Patch_Small_Medic",
+				"IMP_Patch_Small_OBEY",
+                "IMP_Patch_Small_Officer",
+                "IMP_Patch_Small_Operator",				
+                "IMP_Patch_Small_Police",
+                "IMP_Patch_Small_PoliceRU",
+                "IMP_Patch_Small_Polizei",				
+                "IMP_Patch_Small_PVTSkull",
+                "IMP_Patch_Small_SBPFSO",
+                "IMP_Patch_Small_Scout",
+                "IMP_Patch_Small_Sergeant",
+                "IMP_Patch_Small_Sniper",
+                "IMP_Patch_Small_Soldier",
+                "IMP_Patch_Small_Tankman",
+                "IMP_Patch_Small_TheWarriors",				
+                "IMP_Patch_Small_Flag_UK",
+                "IMP_Patch_Small_UMBRELLA",
+				"IMP_Patch_Small_UN",
+                "IMP_Patch_Small_Flag_USA",
+                "IMP_Patch_Small_VSRF",				
+                "IMP_Patch_Small_VAGNER"				
+            ]
+        }
+    ]
+}

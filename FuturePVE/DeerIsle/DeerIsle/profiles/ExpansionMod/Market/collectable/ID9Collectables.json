@@ -1,0 +1,29 @@
+{
+    "m_Version": 11,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_SPECIAL",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Grenade",
+    "Currencies": [
+		"TraderPlus_Money_Euro500",
+		"TraderPlus_Money_Euro200",
+		"TraderPlus_Money_Euro100",
+		"TraderPlus_Money_Euro50",
+		"TraderPlus_Money_Euro20",
+		"TraderPlus_Money_Euro10",
+		"TraderPlus_Money_Euro5"
+    ],
+    "Categories": [
+        "Accessories",
+        "Books",
+        "Treasure Hunting",
+        "Fluffy Pets",
+        "Rare Items",
+        "Playcards",
+        "Pokemon Cards",
+        "Collector Gold Bars 65% Value"
+    ],
+    "Items": {}
+}

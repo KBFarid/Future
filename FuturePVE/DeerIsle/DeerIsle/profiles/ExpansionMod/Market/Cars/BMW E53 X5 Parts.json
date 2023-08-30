@@ -1,0 +1,153 @@
+{
+    "m_Version": 12,
+    "DisplayName": "BMW E53 X5 Parts",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "BMWX5E53_koleso",
+            "MaxPriceThreshold": 10000.0,
+            "MinPriceThreshold": 10000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BMWX5E53_dver_1_1",
+            "MaxPriceThreshold": 15000.0,
+            "MinPriceThreshold": 15000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BMWX5E53_dver_2_1",
+            "MaxPriceThreshold": 15000.0,
+            "MinPriceThreshold": 15000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BMWX5E53_dver_1_2",
+            "MaxPriceThreshold": 15000.0,
+            "MinPriceThreshold": 15000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BMWX5E53_dver_2_2",
+            "MaxPriceThreshold": 15000.0,
+            "MinPriceThreshold": 15000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BMWX5E53_kapot",
+            "MaxPriceThreshold": 15000.0,
+            "MinPriceThreshold": 15000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BMWX5E53_bagazhnik",
+            "MaxPriceThreshold": 15000.0,
+            "MinPriceThreshold": 15000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BMWX5E53_dver_1_1_Blue",
+            "MaxPriceThreshold": 15000.0,
+            "MinPriceThreshold": 15000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BMWX5E53_dver_2_1_Blue",
+            "MaxPriceThreshold": 15000.0,
+            "MinPriceThreshold": 15000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BMWX5E53_dver_1_2_Blue",
+            "MaxPriceThreshold": 15000.0,
+            "MinPriceThreshold": 15000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BMWX5E53_dver_2_2_Blue",
+            "MaxPriceThreshold": 15000.0,
+            "MinPriceThreshold": 15000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BMWX5E53_kapot_Blue",
+            "MaxPriceThreshold": 15000.0,
+            "MinPriceThreshold": 15000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BMWX5E53_bagazhnik_Blue",
+            "MaxPriceThreshold": 15000.0,
+            "MinPriceThreshold": 15000.0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

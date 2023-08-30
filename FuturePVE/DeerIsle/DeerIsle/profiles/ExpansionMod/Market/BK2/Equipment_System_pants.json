@@ -1,0 +1,103 @@
+{
+	
+    "m_Version": 12,
+    "DisplayName": "Equipment System Pants",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 5.0,
+    "Items": [
+		{
+            "ClassName": "IMP_Pants_ABR_Black",
+            "MaxPriceThreshold": 230,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Pants_ABR_Green",
+                "IMP_Pants_ABR_Tan",
+                "IMP_Pants_ABR_UCP",				
+                "IMP_Pants_ABR_NWU",
+                "IMP_Pants_ABR_EMR",
+                "IMP_Pants_ABR_MARPAT"					
+            ]
+        },
+		{
+            "ClassName": "IMP_Pants_Military_Black",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Pants_Military_Green",
+                "IMP_Pants_Military_Tan",
+                "IMP_Pants_Military_UCP",				
+                "IMP_Pants_Military_NWU",
+                "IMP_Pants_Military_EMR",
+                "IMP_Pants_Military_MARPAT"					
+            ]
+        },
+		{
+            "ClassName": "IMP_Pants_BombPants_Tan",
+            "MaxPriceThreshold": 280,
+            "MinPriceThreshold": 230,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Pants_BombPants_Green"				
+            ]
+        },
+		{
+            "ClassName": "IMP_Pants_Cargo_UCP",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Pants_Cargo_NWU",
+                "IMP_Pants_Cargo_EMR",
+                "IMP_Pants_Cargo_MARPAT"					
+            ]
+        },
+		{
+            "ClassName": "IMP_Pants_TTSKO_UCP",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Pants_TTSKO_NWU",
+                "IMP_Pants_TTSKO_EMR",
+                "IMP_Pants_TTSKO_MARPAT"					
+            ]
+        },
+		{
+            "ClassName": "IMP_Pants_Gorka",
+            "MaxPriceThreshold": 280,
+            "MinPriceThreshold": 230,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Pants_Gorka_Gray"				
+            ]
+        }
+    ]
+}

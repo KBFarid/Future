@@ -1,0 +1,242 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-8-30_3-32-58
+====================================================================================
+3:32:58 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+3:32:58 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+3:32:58 | [PermissionManager] Perm (FreeCamera) has been registered!
+3:32:58 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+3:32:58 | [PermissionManager] Perm (MenuItemManager) has been registered!
+3:32:58 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+3:32:58 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+3:32:58 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+3:32:58 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+3:32:58 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+3:32:58 | [PermissionManager] Perm (MenuServerManager) has been registered!
+3:32:58 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+3:32:58 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+3:32:58 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+3:32:58 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+3:32:58 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+3:32:58 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+3:32:58 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+3:32:58 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+3:32:58 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+3:32:58 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+3:32:58 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+3:32:58 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+3:32:58 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+3:32:58 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+3:32:58 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+3:32:58 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+3:32:58 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+3:32:58 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+3:32:58 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+3:32:58 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+3:32:58 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+3:32:58 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+3:32:58 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+3:32:58 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+3:32:58 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+3:32:58 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+3:32:58 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+3:32:58 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+3:32:58 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+3:32:58 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+3:32:58 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+3:32:58 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+3:32:58 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+3:32:58 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+3:32:58 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+3:32:58 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+3:32:58 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+3:32:58 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+3:32:58 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+3:32:58 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+3:32:58 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+3:32:58 | [PermissionManager] Perm (MenuBansManager) has been registered!
+3:32:58 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+3:32:58 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+3:32:58 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+3:32:58 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+3:32:58 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+3:32:58 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+3:32:58 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+3:32:58 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+3:32:58 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+3:32:58 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+3:32:58 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+3:32:58 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+3:32:58 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+3:32:58 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+3:32:58 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+3:32:58 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+3:32:58 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+3:32:58 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+3:32:58 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+3:32:58 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+3:32:58 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+3:32:58 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+3:32:58 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+3:32:58 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+3:32:58 | [PermissionManager] Adding Super Admin (76561198811763280)
+3:32:58 | [PermissionManager] Loaded UserGroups.json
+3:32:58 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+3:32:58 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+3:32:58 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+3:32:58 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+3:32:58 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+3:32:58 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+3:32:58 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+3:32:58 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+3:32:58 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+3:32:58 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+3:32:58 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+3:32:58 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+3:32:58 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+3:32:58 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+3:32:58 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+3:32:58 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+3:32:58 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+3:32:58 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+3:32:58 | Building Sets Loaded: 9
+3:32:59 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+3:32:59 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+3:36:22 | Player "Yurasen" (steamId=76561198882022900) connected to server!
+3:36:52 | Player "Yurasen" (steamId=76561198882022900) initiated disconnect process...
+3:37:53 | Player "Yurasen" (steamId=76561198882022900) connected to server!
+3:38:8 | Player "Yurasen" (steamId=76561198882022900) initiated disconnect process...
+3:38:14 | Player "tsifthanos" (steamId=76561198123155229) connected to server!
+3:38:37 | "tsifthanos" (steamid=76561198123155229) toggled godmode
+3:41:8 | Player "Yurasen" (steamId=76561198882022900) connected to server!
+3:43:54 | "tsifthanos" (steamid=76561198123155229) toggled godmode
+3:43:54 | "tsifthanos" (steamid=76561198123155229) toggled godmode
+3:44:20 | Player "Lindi" (steamId=76561199243602622) connected to server!
+3:45:6 | Player "[HEAD] kotz" (steamId=76561199180547967) connected to server!
+3:45:7 | Player "Yurasen" (steamId=76561198882022900) connected to server!
+3:48:27 | "tsifthanos" (steamid=76561198123155229) gave unlimited ammo to (steamid=76561198123155229)
+3:48:46 | Player "Yurasen" (steamId=76561198882022900) connected to server!
+3:48:53 | Player "[HEAD] kotz" (steamId=76561199180547967) connected to server!
+3:51:16 | Player "[HEAD] kotz" (steamId=76561199180547967) connected to server!
+3:52:9 | "tsifthanos" (steamid=76561198123155229) toggled freecam
+3:52:19 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<8361.945313, 143.910477, 10875.996094>)
+3:52:20 | "tsifthanos" (steamid=76561198123155229) toggled freecam
+3:52:53 | "tsifthanos" (steamid=76561198123155229) toggled godmode
+3:52:54 | "tsifthanos" (steamid=76561198123155229) toggled godmode
+3:55:11 | "tsifthanos" (steamid=76561198123155229) spawned preset: (Cash)
+3:56:40 | Player "Lindi" (steamId=76561199243602622) disconnected from server.
+3:56:40 | Player "Lindi" (steamId=76561199243602622) initiated disconnect process...
+3:57:5 | "76561198123155229" (steamid=76561198123155229) teleported to (pos=<10206.099609, 41.017273, 4876.810059>)
+3:57:5 | "tsifthanos": (steamid=76561198123155229) teleported to (pos=10206.1,0,4876.81)
+3:57:13 | "tsifthanos" (steamid=76561198123155229) /heal used on: "Yurasen" (steamid=76561198882022900)
+3:57:22 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<10205.375977, 41.912426, 4875.333008>)
+3:57:44 | Player "tsifthanos" (steamId=76561198123155229) initiated disconnect process...
+3:57:55 | Player "Yurasen" (steamId=76561198882022900) connected to server!
+3:58:41 | Player "tsifthanos" (steamId=76561198123155229) connected to server!
+3:58:52 | "tsifthanos" (steamid=76561198123155229) toggled godmode
+3:59:49 | "tsifthanos" (steamid=76561198123155229) toggled freecam
+3:59:53 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<10199.867188, 51.949253, 4941.194824>)
+3:59:54 | "tsifthanos" (steamid=76561198123155229) toggled freecam
+4:0:38 | "tsifthanos" (steamid=76561198123155229) Spawned Item: (TTC_SCARH)
+4:0:46 | Player "[HEAD] kotz" (steamId=76561199180547967) disconnected from server.
+4:0:46 | Player "[HEAD] kotz" (steamId=76561199180547967) initiated disconnect process...
+4:1:0 | Player "Lindi" (steamId=76561199243602622) connected to server!
+4:1:7 | Player "Yurasen" (steamId=76561198882022900) connected to server!
+4:1:26 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<782.658813, 8691.751953, 755.726013>)
+4:1:33 | "76561198123155229" (steamid=76561198123155229) teleported to (pos=<9504.360352, 41.063343, 3384.600098>)
+4:1:33 | "tsifthanos": (steamid=76561198123155229) teleported to (pos=9504.36,0,3384.6)
+4:1:59 | Player "[HEAD] kotz" (steamId=76561199180547967) connected to server!
+4:2:16 | Player "[HEAD] kotz" (steamId=76561199180547967) initiated disconnect process...
+4:2:36 | Player "[HEAD] kotz" (steamId=76561199180547967) connected to server!
+4:2:43 | Player "[HEAD] kotz" (steamId=76561199180547967) initiated disconnect process...
+4:3:3 | Player "[HEAD] kotz" (steamId=76561199180547967) connected to server!
+4:3:4 | "tsifthanos" (steamid=76561198123155229) toggled godmode
+4:3:5 | "tsifthanos" (steamid=76561198123155229) toggled godmode
+4:3:26 | Player "tsifthanos" (steamId=76561198123155229) initiated disconnect process...
+4:3:30 | Player "tsifthanos" (steamId=76561198123155229) disconnected early from server (EXIT NOW).
+4:3:36 | Player "tsifthanos" (steamId=76561198123155229) disconnected from server.
+4:3:48 | Player "Yurasen" (steamId=76561198882022900) connected to server!
+4:4:57 | Player "tsifthanos" (steamId=76561198123155229) connected to server!
+4:5:9 | "tsifthanos" (steamid=76561198123155229) toggled godmode
+4:5:58 | Player "Lindi" (steamId=76561199243602622) connected to server!
+4:6:12 | Player "TheArchitect" (steamId=76561198811763280) connected to server!
+4:8:27 | "TheArchitect" (steamid=76561198811763280) toggled godmode
+4:9:1 | Player "Lindi" (steamId=76561199243602622) connected to server!
+4:9:22 | "76561198811763280" (steamid=76561198811763280) teleported to (pos=<10211.700195, 26.353992, 5454.700195>)
+4:9:22 | "TheArchitect": (steamid=76561198811763280) teleported to (pos=10211.7,0,5454.7)
+4:9:37 | "TheArchitect" (steamid=76561198811763280) /heal used on: "[HEAD] kotz" (steamid=76561199180547967)
+4:10:6 | "TheArchitect" (steamid=76561198811763280) Spawned Item: (WaterBottle)
+4:10:18 | "TheArchitect" (steamid=76561198811763280) toggled freecam
+4:10:32 | "TheArchitect" (steamid=76561198811763280) toggled freecam
+4:13:16 | "76561198811763280" (steamid=76561198811763280) teleported to (pos=<10339.599609, 3.157506, 5561.720215>)
+4:13:16 | "TheArchitect": (steamid=76561198811763280) teleported to (pos=10339.6,0,5561.72)
+4:14:2 | "76561198811763280" (steamid=76561198811763280) teleported to (pos=<8968.780273, 46.340557, 3816.689941>)
+4:14:2 | "TheArchitect": (steamid=76561198811763280) teleported to (pos=8968.78,0,3816.69)
+4:14:38 | "TheArchitect" (steamid=76561198811763280) gave unlimited ammo to (steamid=76561198811763280)
+4:14:50 | "tsifthanos" (steamid=76561198123155229) gave unlimited ammo to (steamid=76561198123155229)
+4:16:3 | Player "Yurasen" (steamId=76561198882022900) initiated disconnect process...
+4:16:13 | Player "Yurasen" (steamId=76561198882022900) disconnected from server.
+4:16:51 | Player "Yurasen" (steamId=76561198882022900) connected to server!
+4:16:54 | Player "[HEAD] kotz" (steamId=76561199180547967) disconnected from server.
+4:16:54 | Player "[HEAD] kotz" (steamId=76561199180547967) initiated disconnect process...
+4:17:17 | "TheArchitect" (steamid=76561198811763280) /heal used on: "Yurasen" (steamid=76561198882022900)
+4:18:35 | Player "[HEAD] kotz" (steamId=76561199180547967) connected to server!
+4:19:9 | "TheArchitect" (steamid=76561198811763280) toggled freecam
+4:19:11 | Player "[HEAD] kotz" (steamId=76561199180547967) connected to server!
+4:19:13 | "TheArchitect" (steamid=76561198811763280) teleported to crosshair (pos=<8889.163086, 45.759998, 3841.538086>)
+4:19:14 | "TheArchitect" (steamid=76561198811763280) toggled freecam
+4:19:28 | Player "[HEAD] kotz" (steamId=76561199180547967) initiated disconnect process...
+4:19:47 | Player "[HEAD] kotz" (steamId=76561199180547967) connected to server!
+4:20:11 | Player "[HEAD] kotz" (steamId=76561199180547967) initiated disconnect process...
+4:20:32 | Player "tsifthanos" (steamId=76561198123155229) initiated disconnect process...
+4:21:1 | Player "[HEAD] kotz" (steamId=76561199180547967) connected to server!
+4:21:33 | "TheArchitect" (steamid=76561198811763280) deleted object "TTC_SCARH" (pos=<8894.033203, 45.787518, 3839.064941>)
+4:22:11 | "TheArchitect" (steamid=76561198811763280) Spawned Item: (TF_Mag_SCAR_H_Drum50Rnd)
+4:22:18 | "TheArchitect" (steamid=76561198811763280) Spawned Item: (TTC_SCARH)
+4:22:30 | Player "[HEAD] BombyCoidea" (steamId=76561199442808556) connected to server!
+4:22:31 | Player "tsifthanos" (steamId=76561198123155229) connected to server!
+4:22:57 | "tsifthanos" (steamid=76561198123155229) /heal used on: "tsifthanos" (steamid=76561198123155229)
+4:22:58 | "tsifthanos" (steamid=76561198123155229) toggled godmode
+4:23:8 | "TheArchitect" (steamid=76561198811763280) Spawned Item: (AdminAuto9)
+4:23:11 | "TheArchitect" (steamid=76561198811763280) Spawned Item: (Mag_Admin_Auto9_Pistol_200Rnd)
+4:23:30 | "TheArchitect" (steamid=76561198811763280) /heal used on: "TheArchitect" (steamid=76561198811763280)
+4:23:31 | "TheArchitect" (steamid=76561198811763280) /heal used on: "Yurasen" (steamid=76561198882022900)
+4:23:33 | "TheArchitect" (steamid=76561198811763280) toggled freecam
+4:23:42 | "TheArchitect" (steamid=76561198811763280) teleported to crosshair (pos=<8920.242188, 48.831955, 3825.963379>)
+4:23:42 | "TheArchitect" (steamid=76561198811763280) toggled freecam
+4:23:43 | "tsifthanos" (steamid=76561198123155229) Spawned Item: (AdminCellPistol)
+4:23:47 | "tsifthanos" (steamid=76561198123155229) Spawned Item: (Mag_Admin_CellPistol_200Rnd)
+4:23:53 | "TheArchitect" (steamid=76561198811763280) Spawned Item: (Ammo_Bullet_Admin)
+4:23:53 | "TheArchitect" (steamid=76561198811763280) Spawned Item: (Ammo_Bullet_Admin)
+4:23:53 | "TheArchitect" (steamid=76561198811763280) Spawned Item: (Ammo_Bullet_Admin)
+4:23:53 | "TheArchitect" (steamid=76561198811763280) Spawned Item: (Ammo_Bullet_Admin)
+4:23:55 | "TheArchitect" (steamid=76561198811763280) Spawned Item: (Mag_Admin_CellPistol_200Rnd)
+4:23:59 | "TheArchitect" (steamid=76561198811763280) Spawned Item: (AdminCellPistol)
+4:24:39 | "tsifthanos" (steamid=76561198123155229) /heal used on: "Yurasen" (steamid=76561198882022900)
+4:24:40 | "tsifthanos" (steamid=76561198123155229) /heal used on: "tsifthanos" (steamid=76561198123155229)
+4:24:40 | "tsifthanos" (steamid=76561198123155229) /heal used on: "Yurasen" (steamid=76561198882022900)
+4:24:42 | "tsifthanos" (steamid=76561198123155229) /heal used on: "Yurasen" (steamid=76561198882022900)
+4:24:50 | "tsifthanos" (steamid=76561198123155229) teleported to crosshair (pos=<8916.813477, 48.750118, 3829.127686>)
+4:24:55 | Player "TheArchitect" (steamId=76561198811763280) initiated disconnect process...
+4:24:56 | Player "TheArchitect" (steamId=76561198811763280) disconnected early from server (EXIT NOW).
+4:25:5 | Player "TheArchitect" (steamId=76561198811763280) disconnected from server.
+4:25:11 | "tsifthanos" (steamid=76561198123155229) Spawned Item: (Admin_jmc_Prototype_Mag)
+4:25:15 | "tsifthanos" (steamid=76561198123155229) Spawned Item: (Admin_jmc_Prototype_Blue)
+4:25:43 | "tsifthanos" (steamid=76561198123155229) deleted objects using ESP
+4:25:56 | Player "Yurasen" (steamId=76561198882022900) connected to server!
+4:26:13 | "tsifthanos" (steamid=76561198123155229) Spawned Item: (ArzzzMinigun_Mag)
+4:26:17 | "tsifthanos" (steamid=76561198123155229) Spawned Item: (ArzzzMinigun)
+4:26:45 | "tsifthanos" (steamid=76561198123155229) Spawned Item: (FS_ImproStalkerBag_beige)
+4:26:45 | Player "[HEAD] BombyCoidea" (steamId=76561199442808556) connected to server!
+4:27:13 | Player "Lindi" (steamId=76561199243602622) initiated disconnect process...
+4:27:15 | Player "Lindi" (steamId=76561199243602622) disconnected early from server (EXIT NOW).
+4:27:23 | Player "Lindi" (steamId=76561199243602622) disconnected from server.
+4:27:28 | "tsifthanos" (steamid=76561198123155229) toggled godmode
+4:27:29 | "tsifthanos" (steamid=76561198123155229) toggled godmode
+4:27:47 | "tsifthanos" (steamid=76561198123155229) deleted objects using ESP
+4:28:4 | Player "Yurasen" (steamId=76561198882022900) initiated disconnect process...
+4:28:5 | Player "Yurasen" (steamId=76561198882022900) disconnected early from server (EXIT NOW).
+4:28:14 | Player "Yurasen" (steamId=76561198882022900) disconnected from server.
+4:29:19 | Player "[HEAD] kotz" (steamId=76561199180547967) initiated disconnect process...
+4:29:19 | Player "tsifthanos" (steamId=76561198123155229) initiated disconnect process...
+4:29:19 | Player "[HEAD] kotz" (steamId=76561199180547967) disconnected from server.
+4:29:19 | Player "tsifthanos" (steamId=76561198123155229) disconnected from server.
